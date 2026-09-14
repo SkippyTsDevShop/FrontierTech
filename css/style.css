@@ -25,6 +25,8 @@
   --v-space-tint: #E7F7FC;
   --v-blockchain: #C7860B; /* Blockchain */
   --v-blockchain-tint: #FBF1DD;
+  --v-climate: #D9622B;   /* Climate & AgTech */
+  --v-climate-tint: #FBEEE6;
 
   --radius-sm: 4px;
   --radius-md: 8px;
@@ -276,6 +278,7 @@ nav.primary-nav a:hover { color: var(--indigo); }
 .pill[data-v="biotech"].active, .pill[data-v="biotech"]:hover { border-color: var(--v-biotech); color: var(--v-biotech); background: var(--v-biotech-tint); }
 .pill[data-v="space"].active, .pill[data-v="space"]:hover { border-color: var(--v-space); color: var(--v-space); background: var(--v-space-tint); }
 .pill[data-v="blockchain"].active, .pill[data-v="blockchain"]:hover { border-color: var(--v-blockchain); color: var(--v-blockchain); background: var(--v-blockchain-tint); }
+.pill[data-v="climate"].active, .pill[data-v="climate"]:hover { border-color: var(--v-climate); color: var(--v-climate); background: var(--v-climate-tint); }
 
 /* small badge used inline on article rows / article pages */
 .badge {
@@ -293,6 +296,7 @@ nav.primary-nav a:hover { color: var(--indigo); }
 .badge.biotech { color: var(--v-biotech); background: var(--v-biotech-tint); }
 .badge.space { color: var(--v-space); background: var(--v-space-tint); }
 .badge.blockchain { color: var(--v-blockchain); background: var(--v-blockchain-tint); }
+.badge.climate { color: var(--v-climate); background: var(--v-climate-tint); }
 
 /* ---------- Numbered article list ---------- */
 .article-list { padding: 12px 0 60px; }
@@ -389,10 +393,21 @@ article.post { padding-bottom: 60px; }
 }
 .post-hero-img {
   max-width: 940px;
+  max-height: 340px;
   margin: 0 auto 8px;
   border-radius: var(--radius-md);
   overflow: hidden;
   border: 1px solid var(--line);
+}
+.post-hero-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+@media (max-width: 640px) {
+  .post-hero-img { max-height: 200px; }
 }
 .post-hero-caption {
   max-width: 940px;
