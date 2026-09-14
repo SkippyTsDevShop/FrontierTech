@@ -17,8 +17,12 @@ document.addEventListener('DOMContentLoaded', function () {
     pills.forEach(function (pill) {
       pill.addEventListener('click', function (e) {
         e.preventDefault();
-        pills.forEach(function (p) { p.classList.remove('active'); });
+        pills.forEach(function (p) {
+          p.classList.remove('active');
+          p.setAttribute('aria-selected', 'false');
+        });
         pill.classList.add('active');
+        pill.setAttribute('aria-selected', 'true');
         var v = pill.getAttribute('data-v');
         rows.forEach(function (row) {
           var match = v === 'all' || row.getAttribute('data-v') === v;

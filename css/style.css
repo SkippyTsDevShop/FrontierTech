@@ -183,6 +183,14 @@ nav.primary-nav a:hover { color: var(--indigo); }
   padding: 28px;
   background: var(--paper-raised);
   position: relative;
+  display: block;
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.hero-stat-card:hover {
+  border-color: var(--indigo);
+  transform: translateY(-2px);
 }
 .hero-stat-card::before {
   content: "";
@@ -192,18 +200,43 @@ nav.primary-nav a:hover { color: var(--indigo); }
   background: var(--indigo);
   border-radius: var(--radius-md) 0 0 var(--radius-md);
 }
+.hero-stat-card .stat-kicker {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 600;
+  margin-bottom: 14px;
+}
 .hero-stat-card .stat-num {
   font-family: var(--display);
   font-size: 48px;
   font-weight: 700;
   letter-spacing: -0.02em;
   display: block;
+  color: var(--indigo);
 }
 .hero-stat-card .stat-label {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--ink-soft);
-  margin-top: 6px;
+  margin-top: 8px;
+  display: block;
+  line-height: 1.5;
 }
+.hero-stat-card .stat-cta {
+  display: block;
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.hero-stat-card:hover .stat-cta { color: var(--indigo); }
 
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 1fr; gap: 28px; }
