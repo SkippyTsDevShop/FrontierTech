@@ -2,162 +2,216 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://frontiertech.news/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/about.html</loc>
+    <loc>https://frontiertech.news/articles</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/about</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/editorial-policy.html</loc>
+    <loc>https://frontiertech.news/editorial-desk</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/privacy-policy.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/terms.html</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/advertise.html</loc>
+    <loc>https://frontiertech.news/science-health-desk</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/crispr-cholesterol-human-trial-2026.html</loc>
+    <loc>https://frontiertech.news/editorial-policy</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/privacy-policy</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/terms</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/advertise</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/ai</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/energy</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/biotech</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/space</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/blockchain</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/climate</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/crispr-cholesterol-human-trial-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/tokenized-treasuries-rwa-market-2026.html</loc>
+    <loc>https://frontiertech.news/tokenized-treasuries-rwa-market-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/record-battery-storage-2026.html</loc>
+    <loc>https://frontiertech.news/record-battery-storage-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/artemis-moon-program-schedule-2026.html</loc>
+    <loc>https://frontiertech.news/artemis-moon-program-schedule-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/brain-computer-interfaces-2026.html</loc>
+    <loc>https://frontiertech.news/brain-computer-interfaces-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/de-extinction-colossal-biosciences-2026.html</loc>
+    <loc>https://frontiertech.news/de-extinction-colossal-biosciences-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/fusion-energy-milestones-2026.html</loc>
+    <loc>https://frontiertech.news/fusion-energy-milestones-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/space-based-solar-power-2026.html</loc>
+    <loc>https://frontiertech.news/space-based-solar-power-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/underwater-data-centers-2026.html</loc>
+    <loc>https://frontiertech.news/underwater-data-centers-2026</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/ultimate-guide-quantum-computers-2026.html</loc>
+    <loc>https://frontiertech.news/ultimate-guide-quantum-computers-2026</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/humanoid-robots-leaving-the-lab-2026.html</loc>
+    <loc>https://frontiertech.news/humanoid-robots-leaving-the-lab-2026</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/space-based-data-centers-2026.html</loc>
+    <loc>https://frontiertech.news/space-based-data-centers-2026</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/data-centers-factories-ai-economy-2026.html</loc>
+    <loc>https://frontiertech.news/data-centers-factories-ai-economy-2026</loc>
     <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/small-modular-reactors-grid-2026.html</loc>
+    <loc>https://frontiertech.news/small-modular-reactors-grid-2026</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/agtech-weather-monitoring-2026.html</loc>
+    <loc>https://frontiertech.news/agtech-weather-monitoring-2026</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/ultimate-guide-ai-agents-2026.html</loc>
+    <loc>https://frontiertech.news/ultimate-guide-ai-agents-2026</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/spacex-100-billion-louisiana-spaceport.html</loc>
+    <loc>https://frontiertech.news/spacex-100-billion-louisiana-spaceport</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/ai-tools-worth-paying-for-2026.html</loc>
+    <loc>https://frontiertech.news/ai-tools-worth-paying-for-2026</loc>
     <lastmod>2026-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/nuclear-power-silicon-valley-ai-boom.html</loc>
+    <loc>https://frontiertech.news/nuclear-power-silicon-valley-ai-boom</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/crispr-clinical-milestones-2026.html</loc>
+    <loc>https://frontiertech.news/crispr-clinical-milestones-2026</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://frontiertech.news/what-blockchain-actually-solves.html</loc>
+    <loc>https://frontiertech.news/what-blockchain-actually-solves</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

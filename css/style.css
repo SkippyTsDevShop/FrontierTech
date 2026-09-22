@@ -315,12 +315,22 @@ h2.section-title {
   grid-template-columns: 56px 1fr auto;
   gap: 20px;
   align-items: baseline;
-  padding: 22px 0;
+  padding: 22px 0 22px 14px;
   border-bottom: 1px solid var(--line);
+  border-left: 3px solid transparent;
   text-decoration: none;
   color: var(--ink);
+  transition: border-left-color 0.15s ease;
 }
 .article-row:hover .article-row-title { color: var(--indigo); }
+/* Small category-coded indicator on every row -- a colored left edge, not
+   a thumbnail -- so the list stays scannable without turning image-heavy. */
+.article-row[data-v="ai"] { border-left-color: var(--v-ai); }
+.article-row[data-v="energy"] { border-left-color: var(--v-energy); }
+.article-row[data-v="biotech"] { border-left-color: var(--v-biotech); }
+.article-row[data-v="space"] { border-left-color: var(--v-space); }
+.article-row[data-v="blockchain"] { border-left-color: var(--v-blockchain); }
+.article-row[data-v="climate"] { border-left-color: var(--v-climate); }
 .article-row-num {
   font-family: var(--mono);
   font-size: 14px;
@@ -358,6 +368,82 @@ h2.section-title {
   .article-row-read { grid-column: 2; text-align: left; }
   .article-row-title { font-size: 19px; }
 }
+
+.view-archive {
+  display: inline-block;
+  margin-top: 24px;
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--indigo-deep);
+  text-decoration: none;
+}
+.view-archive:hover { color: var(--indigo); text-decoration: underline; }
+
+/* ---------- Featured-by-category grid (homepage) ---------- */
+.featured-grid { padding: 8px 0 8px; }
+.featured-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.featured-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--paper-raised);
+  transition: border-color 0.15s ease;
+}
+.featured-card:hover { border-color: var(--indigo); }
+.featured-card .badge { align-self: flex-start; }
+.featured-card h3 {
+  font-family: var(--display);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.25;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+.featured-card p {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 0;
+  line-height: 1.5;
+}
+.featured-read {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-top: auto;
+}
+@media (max-width: 900px) {
+  .featured-cards { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 600px) {
+  .featured-cards { grid-template-columns: 1fr; }
+}
+
+/* ---------- Topic hub pages ---------- */
+.hub-overview {
+  max-width: 68ch;
+  font-size: 18px;
+  color: var(--ink-soft);
+  margin: 0 0 32px;
+  line-height: 1.6;
+}
+.article-list-plain { margin: 0 0 32px; }
+.hub-browse {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin-top: 8px;
+}
+.hub-browse a { color: var(--indigo-deep); text-decoration: underline; }
+.hub-browse a:hover { color: var(--indigo); }
 
 /* ---------- Article page ---------- */
 .breadcrumb {
@@ -447,6 +533,91 @@ article.post { padding-bottom: 60px; }
 .post-body ul, .post-body ol { padding-left: 22px; margin: 0 0 24px; }
 .post-body li { margin-bottom: 10px; }
 .post-body strong { font-weight: 600; }
+/* Fix: in-body citation links previously inherited plain text color and
+   were distinguishable only by a thin underline, inconsistent with the
+   indigo-styled links used everywhere else on the page (go-deeper box,
+   nav, etc). Give them an explicit, visible treatment. */
+.post-body a {
+  color: var(--indigo-deep);
+  text-decoration: underline;
+  text-decoration-color: var(--v-ai-tint);
+  text-underline-offset: 2px;
+}
+.post-body a:hover { color: var(--indigo); text-decoration-color: var(--indigo); }
+
+.post-meta a { color: inherit; text-decoration: underline; text-decoration-color: var(--line-strong); }
+.post-meta a:hover { color: var(--indigo); }
+
+.corrections-notice {
+  max-width: 700px;
+  margin: 0 auto 28px;
+  border: 1px solid #E8B96A;
+  background: #FFF8EC;
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+}
+.corrections-notice .cn-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #92650F;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+.corrections-notice p { margin: 0 0 6px; font-size: 14px; color: var(--ink-soft); }
+.corrections-notice p:last-child { margin-bottom: 0; }
+
+.inline-subscribe {
+  max-width: 700px;
+  margin: 8px auto 36px;
+  border: 1px solid var(--indigo-tint);
+  background: var(--indigo-tint);
+  border-radius: var(--radius-md);
+  padding: 22px 24px;
+}
+.inline-subscribe-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--indigo-deep);
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+.inline-subscribe p:not(.inline-subscribe-label) { margin: 0 0 14px; font-size: 15px; color: var(--ink); }
+.inline-subscribe-btn {
+  display: inline-block;
+  background: var(--indigo);
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  text-decoration: none;
+}
+.inline-subscribe-btn:hover { background: var(--indigo-deep); }
+
+.network-links {
+  max-width: 700px;
+  margin: 28px auto;
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius-md);
+  padding: 20px 24px;
+}
+.network-links .nl-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 700;
+  margin: 0 0 12px;
+}
+.network-links ul { list-style: none; margin: 0; padding: 0; }
+.network-links li { margin-bottom: 8px; font-size: 14px; color: var(--ink-soft); }
+.network-links a { color: var(--indigo-deep); text-decoration: underline; font-weight: 600; }
+.network-links a:hover { color: var(--indigo); }
 
 .go-deeper {
   max-width: 700px;

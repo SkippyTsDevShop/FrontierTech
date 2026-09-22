@@ -4,7 +4,7 @@ This file contains the complete text of all published articles for AI search and
 
 ========================================================================
 TITLE: A CRISPR Cholesterol Therapy Just Cleared Its First Human Safety Test
-URL: https://frontiertech.news/crispr-cholesterol-human-trial-2026.html
+URL: https://frontiertech.news/crispr-cholesterol-human-trial-2026
 VERTICAL: BIOTECH
 DATE: September 21, 2026
 DEK: Most cholesterol treatments are a lifelong subscription — a daily pill or a biweekly injection. CRISPR Therapeutics' CTX310 is designed to be given once. The first full human data just showed why that might actually work.
@@ -50,7 +50,7 @@ A: Not soon. CRISPR Therapeutics has said Phase 2 trials are planned next to tes
 
 ========================================================================
 TITLE: Tokenized Treasuries Went From Buzzword to a Real Market — Here's the 2026 Number
-URL: https://frontiertech.news/tokenized-treasuries-rwa-market-2026.html
+URL: https://frontiertech.news/tokenized-treasuries-rwa-market-2026
 VERTICAL: BLOCKCHAIN
 DATE: September 21, 2026
 DEK: For years, 'tokenized real-world assets' was a slide in a pitch deck. In 2026, it's a $14.8 billion market with BlackRock, Circle, and Franklin Templeton all competing for share — and it's arguably the clearest proof blockchain's boring use cases are the ones that stuck.
@@ -96,7 +96,7 @@ A: It can shrink. RWA.xyz's own data has shown roughly a 5.25% decline in total 
 
 ========================================================================
 TITLE: The U.S. Just Added a Record Amount of Battery Storage. Here's Why That Number Matters
-URL: https://frontiertech.news/record-battery-storage-2026.html
+URL: https://frontiertech.news/record-battery-storage-2026
 VERTICAL: ENERGY
 DATE: September 21, 2026
 DEK: While nuclear deals grab the headlines, the grid's fastest-growing reliability tool right now is a lot less glamorous: batteries. The U.S. just installed more storage in one quarter than ever before.
@@ -142,7 +142,7 @@ A: They solve different timelines, not the same problem. Battery storage can be 
 
 ========================================================================
 TITLE: Is NASA's Artemis Moon Program Actually on Schedule?
-URL: https://frontiertech.news/artemis-moon-program-schedule-2026.html
+URL: https://frontiertech.news/artemis-moon-program-schedule-2026
 VERTICAL: SPACE
 DATE: September 21, 2026
 DEK: A New Glenn rocket exploded on the pad in May. NASA's response wasn't to panic — it was to start looking for a different rocket entirely. Here's what actually happened, and what it means for landing astronauts on the Moon again.
@@ -188,7 +188,7 @@ A: That's unresolved. Artemis has already slipped its target dates multiple time
 
 ========================================================================
 TITLE: Brain-Computer Interfaces Are Already Working. Here's How Far They've Actually Gotten
-URL: https://frontiertech.news/brain-computer-interfaces-2026.html
+URL: https://frontiertech.news/brain-computer-interfaces-2026
 VERTICAL: AI
 DATE: September 21, 2026
 DEK: Twenty-one people are now living with a working Neuralink implant, and a Synchron patient has controlled an iPad by thought alone. Neither company is where the marketing says they are — both are further along than skeptics assume, and further from a mass-market product than either lets on.
@@ -234,7 +234,7 @@ A: Not soon, and not at real scale. Neuralink is targeting a more automated surg
 
 ========================================================================
 TITLE: Dire Wolves Are Real Again. Is a Woolly Mammoth Next?
-URL: https://frontiertech.news/de-extinction-colossal-biosciences-2026.html
+URL: https://frontiertech.news/de-extinction-colossal-biosciences-2026
 VERTICAL: BIOTECH
 DATE: September 21, 2026
 DEK: Colossal Biosciences' three gene-edited dire wolves are now a functioning pack that hunts together. The company's next target, the woolly mammoth, just got pushed back years — a reminder of how much harder de-extinction gets the further back you go.
@@ -280,7 +280,7 @@ A: Yes. Research into elephant cancer-resistance genes (TP53 and LIF6), conducte
 
 ========================================================================
 TITLE: Fusion Energy Just Got a Lot More Real. Here's the 2026 Progress Report
-URL: https://frontiertech.news/fusion-energy-milestones-2026.html
+URL: https://frontiertech.news/fusion-energy-milestones-2026
 VERTICAL: ENERGY
 DATE: September 21, 2026
 DEK: SPARC, the private fusion reactor racing to prove commercial fusion works, is now about 75% built in Massachusetts. It's still a machine that hasn't produced plasma yet — but it's no longer just a rendering, either.
@@ -326,7 +326,7 @@ A: They operate on different timelines. Battery storage is solving grid reliabil
 
 ========================================================================
 TITLE: Beaming Solar Power Down From Orbit Sounds Insane. It's Also a Real Program Now
-URL: https://frontiertech.news/space-based-solar-power-2026.html
+URL: https://frontiertech.news/space-based-solar-power-2026
 VERTICAL: SPACE
 DATE: September 21, 2026
 DEK: A satellite that catches sunlight 24/7 and beams the power down to Earth used to be a thought experiment. In 2026, Caltech has already proven it works in space, and China just demonstrated it can power a drone in flight from the ground up.
@@ -372,7 +372,7 @@ A: Not soon. ESA's own roadmap targets an in-orbit demonstration around 2030 and
 
 ========================================================================
 TITLE: China Just Launched the World's First Commercial Underwater Data Center
-URL: https://frontiertech.news/underwater-data-centers-2026.html
+URL: https://frontiertech.news/underwater-data-centers-2026
 VERTICAL: CLIMATE
 DATE: September 21, 2026
 DEK: Microsoft tried sinking servers into the ocean years ago and quietly shelved the idea. China just built a commercial version anyway — a 1,300-tonne data cabin on the seafloor off Hainan, cooled for free by the Pacific.
@@ -418,7 +418,7 @@ A: Delivering power and fiber connectivity to a submerged facility, physically a
 
 ========================================================================
 TITLE: The Ultimate Guide to Quantum Computers
-URL: https://frontiertech.news/ultimate-guide-quantum-computers-2026.html
+URL: https://frontiertech.news/ultimate-guide-quantum-computers-2026
 VERTICAL: AI
 DATE: September 20, 2026
 DEK: Quantum computing gets described as either science fiction or a laptop replacement, and it's neither. Here's what a quantum computer actually is, what it still can't do, and where the technology genuinely stands in 2026.
@@ -466,7 +466,7 @@ A: Not yet, and not soon. IBM's own roadmap doesn't target its flagship fault-to
 
 ========================================================================
 TITLE: Humanoid Robots Are Leaving the Lab — Are They Ready for Work?
-URL: https://frontiertech.news/humanoid-robots-leaving-the-lab-2026.html
+URL: https://frontiertech.news/humanoid-robots-leaving-the-lab-2026
 VERTICAL: AI
 DATE: September 19, 2026
 DEK: For a decade, humanoid robots were demo videos. In 2026, one just helped build 30,000 cars on a real BMW production line. Here's what's actually deployed, and what still separates a pilot from a payroll.
@@ -513,7 +513,7 @@ A: Cost, battery life, and maintenance intervals still limit deployments to high
 
 ========================================================================
 TITLE: Space-Based Data Centers Sound Crazy. Here's Why Companies Are Considering Them
-URL: https://frontiertech.news/space-based-data-centers-2026.html
+URL: https://frontiertech.news/space-based-data-centers-2026
 VERTICAL: SPACE
 DATE: September 18, 2026
 DEK: Putting AI compute in orbit sounds like a solution in search of a problem — until you look at how much land, power, and water a terrestrial data center actually needs. Nvidia-backed Starcloud just raised $250 million betting the math works.
@@ -560,7 +560,7 @@ A: Radiation degrades electronics faster in space, there's no way to physically 
 
 ========================================================================
 TITLE: Why Data Centers Are Becoming the Factories of the AI Economy
-URL: https://frontiertech.news/data-centers-factories-ai-economy-2026.html
+URL: https://frontiertech.news/data-centers-factories-ai-economy-2026
 VERTICAL: AI
 DATE: September 17, 2026
 DEK: Nearly $700 billion in planned 2026 spending is turning data centers into the industrial infrastructure of the AI era — and, like any factory boom, it's raising the same hard questions about land, power, jobs, and whether the output will justify the investment.
@@ -607,7 +607,7 @@ A: That's genuinely unresolved. OpenAI's roughly $20 billion in annualized reven
 
 ========================================================================
 TITLE: Small Modular Reactors Could Change How We Power the Grid
-URL: https://frontiertech.news/small-modular-reactors-grid-2026.html
+URL: https://frontiertech.news/small-modular-reactors-grid-2026
 VERTICAL: ENERGY
 DATE: September 16, 2026
 DEK: Factory-built, a fraction of the size of a traditional plant, and suddenly backed by the same tech companies bankrolling the AI boom. Here's what SMRs actually are, who's signing deals, and the timeline problem nobody's solved.
@@ -649,7 +649,7 @@ A: Potentially, according to early estimates. Los Alamos County's own analysis s
 
 ========================================================================
 TITLE: Why Farms Are Betting on Hyperlocal Weather Data
-URL: https://frontiertech.news/agtech-weather-monitoring-2026.html
+URL: https://frontiertech.news/agtech-weather-monitoring-2026
 VERTICAL: CLIMATE
 DATE: September 15, 2026
 DEK: The nearest official weather station can be twenty miles from a field that just lost its crop to a frost that station never recorded. A growing crop of field-level weather hardware is trying to close that gap.
@@ -696,7 +696,7 @@ A: Mostly as part of a larger system. The real value comes from feeding real-tim
 
 ========================================================================
 TITLE: The Ultimate Guide for AI Agents
-URL: https://frontiertech.news/ultimate-guide-ai-agents-2026.html
+URL: https://frontiertech.news/ultimate-guide-ai-agents-2026
 VERTICAL: AI
 DATE: September 14, 2026
 DEK: Autonomous AI agents are already routing support tickets, triaging inboxes, and closing sales pipelines without anyone watching. Here's what an agent actually is, the ones already working today, and how to launch your first one without wasting a month.
@@ -757,7 +757,7 @@ A: Both are true at once. IDC projects a tenfold increase in AI agent usage amon
 
 ========================================================================
 TITLE: Inside SpaceX's $100 Billion Bet on Coastal Louisiana
-URL: https://frontiertech.news/spacex-100-billion-louisiana-spaceport.html
+URL: https://frontiertech.news/spacex-100-billion-louisiana-spaceport
 VERTICAL: SPACE
 DATE: September 14, 2026
 DEK: Starbase Louisiana is being pitched as the largest launch site on Earth — built on marshland between two wildlife refuges, with jobs, coastal restoration, and lawsuits all part of the same deal.
@@ -813,7 +813,7 @@ A: State projections cite roughly 3,000 direct jobs over ten years and about 8,1
 
 ========================================================================
 TITLE: The AI Tools Actually Worth Paying For in 2026
-URL: https://frontiertech.news/ai-tools-worth-paying-for-2026.html
+URL: https://frontiertech.news/ai-tools-worth-paying-for-2026
 VERTICAL: AI
 DATE: September 13, 2026
 DEK: Everyone's subscription list has ballooned. Here's a clear-eyed look at which AI tools are earning their monthly fee this year — and which are just noise.
@@ -864,7 +864,7 @@ A: Yes, selectively. Industry analysts tracking 2026 enterprise adoption have fl
 
 ========================================================================
 TITLE: Nuclear Is Back &mdash; and Silicon Valley Is Paying For It
-URL: https://frontiertech.news/nuclear-power-silicon-valley-ai-boom.html
+URL: https://frontiertech.news/nuclear-power-silicon-valley-ai-boom
 VERTICAL: ENERGY
 DATE: September 9, 2026
 DEK: AI data centers now draw more power than entire states. The industry's answer, once unthinkable, is a nuclear buildout bankrolled by the same companies that made the problem.
@@ -911,7 +911,7 @@ A: SMRs are smaller, factory-built nuclear reactors designed to be cheaper and f
 
 ========================================================================
 TITLE: CRISPR's Quiet Inflection Point
-URL: https://frontiertech.news/crispr-clinical-milestones-2026.html
+URL: https://frontiertech.news/crispr-clinical-milestones-2026
 VERTICAL: BIOTECH
 DATE: September 8, 2026
 DEK: No single breakthrough made headlines this year. Instead, gene editing crossed a threshold: from one approved treatment to a real pipeline spanning blood disorders, heart disease, cancer, and diseases so rare they affect a single patient.
@@ -959,7 +959,7 @@ A: Classic CRISPR (as used in Casgevy) cuts DNA at a targeted location. Base edi
 
 ========================================================================
 TITLE: What Blockchain Actually Solves (And What It Doesn't)
-URL: https://frontiertech.news/what-blockchain-actually-solves.html
+URL: https://frontiertech.news/what-blockchain-actually-solves
 VERTICAL: BLOCKCHAIN
 DATE: September 6, 2026
 DEK: Fifteen years past the whitepaper, enterprise blockchain has quietly stopped being a hype cycle and become a boring, useful tool for a small number of specific problems — and a bad fit for many more.

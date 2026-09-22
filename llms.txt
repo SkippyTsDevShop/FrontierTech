@@ -2,39 +2,51 @@
 
 > Emerging technology journalism for builders and early adopters. FrontierTech.news covers AI, blockchain, energy, biotech, space, and climate tech — explaining what's actually changing and why it matters, without hype or overclaiming.
 
-FrontierTech.news is part of an independent media network. Coverage is reported and edited independently; where a business relationship exists with a company mentioned in an article, it is disclosed in that article, and forward-looking claims about unreleased capabilities are stated as forward-looking, never as fact.
+FrontierTech.news is part of an independent media network. Coverage is reported and edited independently; where a business relationship exists with a company mentioned in an article, it is disclosed in that article, and forward-looking claims about unreleased capabilities are stated as forward-looking, never as fact. Articles are bylined to the reporting desk (the FrontierTech Desk, or the FrontierTech Science & Health Desk for biotech/health-adjacent subjects) rather than an anonymous brand byline.
 
 ## Articles
 
-- [A CRISPR Cholesterol Therapy Just Cleared Its First Human Safety Test](https://frontiertech.news/crispr-cholesterol-human-trial-2026.html): CRISPR Therapeutics' CTX310, a one-time gene-editing treatment for cholesterol, just posted its first-in-human safety and efficacy data — including LDL reductions sustained a year out.
-- [Tokenized Treasuries Went From Buzzword to a Real Market — Here's the 2026 Number](https://frontiertech.news/tokenized-treasuries-rwa-market-2026.html): Tokenized U.S. Treasury funds have grown into a real, multi-billion-dollar market in 2026. Here's the actual size, who's running it, and where the RWA tokenization thesis is heading next.
-- [The U.S. Just Added a Record Amount of Battery Storage. Here's Why That Number Matters](https://frontiertech.news/record-battery-storage-2026.html): The U.S. installed a record 20.2 GWh of battery storage in Q2 2026. Here's where it's being built, why it matters for grid reliability, and how it fits alongside the nuclear buildout.
-- [Is NASA's Artemis Moon Program Actually on Schedule?](https://frontiertech.news/artemis-moon-program-schedule-2026.html): A May 2026 New Glenn explosion put Blue Origin's Artemis lunar lander program in question. Here's what happened, NASA's response, and the real state of the Artemis timeline.
-- [Brain-Computer Interfaces Are Already Working. Here's How Far They've Actually Gotten](https://frontiertech.news/brain-computer-interfaces-2026.html): Where Neuralink and Synchron's brain-computer interfaces actually stand in 2026 — real patient numbers, what's been demonstrated, and the real gap between a working implant and an approved product.
-- [Dire Wolves Are Real Again. Is a Woolly Mammoth Next?](https://frontiertech.news/de-extinction-colossal-biosciences-2026.html): Colossal Biosciences' dire wolves are thriving as a pack in 2026, but the company's woolly mammoth timeline just slipped to the early 2030s. Here's the honest state of de-extinction science.
-- [Fusion Energy Just Got a Lot More Real. Here's the 2026 Progress Report](https://frontiertech.news/fusion-energy-milestones-2026.html): Commonwealth Fusion Systems' SPARC reactor is roughly 75% complete as of 2026, with a 2027 target for net fusion energy. Here's what's actually built, what's left, and why real money is now behind it.
-- [Beaming Solar Power Down From Orbit Sounds Insane. It's Also a Real Program Now](https://frontiertech.news/space-based-solar-power-2026.html): Space-based solar power moved from thought experiment to real hardware in 2026 — Caltech's in-space demonstration, China's wireless power transmission tests, and ESA's SOLARIS roadmap.
-- [China Just Launched the World's First Commercial Underwater Data Center](https://frontiertech.news/underwater-data-centers-2026.html): China's Hainan underwater data center is now operating commercially, using seawater for free cooling. Here's how it works, why it matters, and what happened to Microsoft's earlier version of the idea.
-- [The Ultimate Guide to Quantum Computers](https://frontiertech.news/ultimate-guide-quantum-computers-2026.html): What a quantum computer actually is, what it is not, and where the technology really stands in 2026 — IBM's roadmap, the error-correction problem, and what to actually watch for.
-- [Humanoid Robots Are Leaving the Lab — Are They Ready for Work?](https://frontiertech.news/humanoid-robots-leaving-the-lab-2026.html): Humanoid robots have moved from research demos to real factory and warehouse floors in 2026. Here's what BMW, Agility Robotics, and others have actually deployed — and what still isn't ready.
-- [Space-Based Data Centers Sound Crazy. Here's Why Companies Are Considering Them](https://frontiertech.news/space-based-data-centers-2026.html): Why Starcloud, Nvidia, and even SpaceX are seriously pursuing orbital data centers in 2026 — the terrestrial constraints driving the idea, and the real technical hurdles still unsolved.
-- [Why Data Centers Are Becoming the Factories of the AI Economy](https://frontiertech.news/data-centers-factories-ai-economy-2026.html): Hyperscaler data center capex is approaching $700 billion in 2026. Here's why that infrastructure functions like the AI economy's factory floor — and where the comparison starts to strain.
-- [Small Modular Reactors Could Change How We Power the Grid](https://frontiertech.news/small-modular-reactors-grid-2026.html): What small modular reactors (SMRs) actually are, which utilities and tech companies are signing deals in 2026, and why grid interconnection timelines remain the real obstacle.
-- [Why Farms Are Betting on Hyperlocal Weather Data](https://frontiertech.news/agtech-weather-monitoring-2026.html): American farms lost more than $20 billion to weather in 2024 alone. Here's how hyperlocal, field-level weather monitoring is becoming a real AgTech category — and where its limits are.
-- [The Ultimate Guide for AI Agents](https://frontiertech.news/ultimate-guide-ai-agents-2026.html): What is an AI agent, real examples already in use today, and the simplest way to launch your first one — a practical, no-hype guide for 2026.
-- [Inside SpaceX's $100 Billion Bet on Coastal Louisiana](https://frontiertech.news/spacex-100-billion-louisiana-spaceport.html): SpaceX plans a $100 billion, 10-launchpad spaceport in Vermilion Parish, Louisiana. Here's what's confirmed about the jobs, the timeline, and the tradeoffs.
-- [The AI Tools Actually Worth Paying For in 2026](https://frontiertech.news/ai-tools-worth-paying-for-2026.html): A practical, no-hype guide to the AI subscriptions worth keeping in 2026 — from general chatbots to coding agents, research, image, and video tools.
-- [Nuclear Is Back — and Silicon Valley Is Paying For It](https://frontiertech.news/nuclear-power-silicon-valley-ai-boom.html): Microsoft, Amazon, Google, and Meta are signing nuclear power deals worth billions to feed AI data centers. Here's what's actually being built, and why now.
-- [CRISPR's Quiet Inflection Point](https://frontiertech.news/crispr-clinical-milestones-2026.html): A look at where CRISPR gene editing actually stands in 2026 — from Casgevy's real-world rollout to a new FDA framework for personalized ultra-rare disease therapies.
-- [What Blockchain Actually Solves (And What It Doesn't)](https://frontiertech.news/what-blockchain-actually-solves.html): An honest 2026 assessment of where enterprise blockchain works — trade finance, supply chains, tokenized assets — and the five conditions under which it still fails.
+- [A CRISPR Cholesterol Therapy Just Cleared Its First Human Safety Test](https://frontiertech.news/crispr-cholesterol-human-trial-2026): CRISPR Therapeutics' CTX310, a one-time gene-editing cholesterol treatment, just posted first-in-human data — including LDL reductions still holding a year later.
+- [Tokenized Treasuries Went From Buzzword to a Real Market — Here's the 2026 Number](https://frontiertech.news/tokenized-treasuries-rwa-market-2026): Tokenized U.S. Treasury funds have grown into a real, multi-billion-dollar market in 2026 — the actual size, who's running it, and where the RWA thesis heads next.
+- [The U.S. Just Added a Record Amount of Battery Storage. Here's Why That Number Matters](https://frontiertech.news/record-battery-storage-2026): The U.S. added a record 20.2 GWh of battery storage in Q2 2026 — where it's built, why it matters for grid reliability, and how it fits the nuclear buildout.
+- [Is NASA's Artemis Moon Program Actually on Schedule?](https://frontiertech.news/artemis-moon-program-schedule-2026): A May 2026 New Glenn explosion put Blue Origin's Artemis lander program in question. Here's what happened, NASA's response, and the real state of the timeline.
+- [Brain-Computer Interfaces Are Already Working. Here's How Far They've Actually Gotten](https://frontiertech.news/brain-computer-interfaces-2026): Where Neuralink and Synchron's brain-computer interfaces stand in 2026 — patient numbers, what's been shown, and the gap left before FDA approval.
+- [Dire Wolves Are Real Again. Is a Woolly Mammoth Next?](https://frontiertech.news/de-extinction-colossal-biosciences-2026): Colossal Biosciences' dire wolves are thriving in 2026, but the woolly mammoth timeline slipped to the early 2030s — the honest state of de-extinction science.
+- [Fusion Energy Just Got a Lot More Real. Here's the 2026 Progress Report](https://frontiertech.news/fusion-energy-milestones-2026): Commonwealth Fusion's SPARC reactor is roughly 75% complete in 2026, targeting net fusion energy by 2027 — what's built, what's left, and why money backs it.
+- [Beaming Solar Power Down From Orbit Sounds Insane. It's Also a Real Program Now](https://frontiertech.news/space-based-solar-power-2026): Space-based solar power moved from thought experiment to real hardware in 2026 — Caltech's in-space demo, China's wireless power tests, and ESA's SOLARIS roadmap.
+- [China Just Launched the World's First Commercial Underwater Data Center](https://frontiertech.news/underwater-data-centers-2026): China's Hainan underwater data center now runs commercially, cooled free by seawater — how it works, why it matters, and Microsoft's earlier attempt.
+- [The Ultimate Guide to Quantum Computers](https://frontiertech.news/ultimate-guide-quantum-computers-2026): What a quantum computer actually is, and isn't, in 2026 — IBM's roadmap, the error-correction problem, and what's genuinely worth watching next.
+- [Humanoid Robots Are Leaving the Lab — Are They Ready for Work?](https://frontiertech.news/humanoid-robots-leaving-the-lab-2026): Humanoid robots have moved from research demos to real factory floors in 2026. Here's what BMW and Agility Robotics have deployed — and what still isn't ready.
+- [Space-Based Data Centers Sound Crazy. Here's Why Companies Are Considering Them](https://frontiertech.news/space-based-data-centers-2026): Why Starcloud, Nvidia, and SpaceX are seriously pursuing orbital data centers in 2026 — the constraints driving the idea and the technical hurdles still unsolved.
+- [Why Data Centers Are Becoming the Factories of the AI Economy](https://frontiertech.news/data-centers-factories-ai-economy-2026): Hyperscaler data center capex nears $700 billion in 2026 — why that infrastructure works like the AI economy's factory floor, and where the analogy strains.
+- [Small Modular Reactors Could Change How We Power the Grid](https://frontiertech.news/small-modular-reactors-grid-2026): What small modular reactors are, which utilities and tech companies are signing 2026 deals, and why grid interconnection timelines remain the real obstacle.
+- [Why Farms Are Betting on Hyperlocal Weather Data](https://frontiertech.news/agtech-weather-monitoring-2026): American farms lost over $20 billion to weather in 2024. Here's how hyperlocal weather monitoring became a real AgTech category — and its real limits.
+- [The Ultimate Guide for AI Agents](https://frontiertech.news/ultimate-guide-ai-agents-2026): What is an AI agent, real examples already in use today, and the simplest way to launch your first one — a practical, no-hype guide for 2026.
+- [Inside SpaceX's $100 Billion Bet on Coastal Louisiana](https://frontiertech.news/spacex-100-billion-louisiana-spaceport): SpaceX plans a $100 billion, 10-launchpad spaceport in Vermilion Parish, Louisiana. Here's what's confirmed about the jobs, the timeline, and the tradeoffs.
+- [The AI Tools Actually Worth Paying For in 2026](https://frontiertech.news/ai-tools-worth-paying-for-2026): A practical, no-hype guide to the AI subscriptions worth keeping in 2026 — from general chatbots to coding agents, research, image, and video tools.
+- [Nuclear Is Back — and Silicon Valley Is Paying For It](https://frontiertech.news/nuclear-power-silicon-valley-ai-boom): Microsoft, Amazon, Google, and Meta are signing nuclear power deals worth billions to feed AI data centers. Here's what's actually being built, and why now.
+- [CRISPR's Quiet Inflection Point](https://frontiertech.news/crispr-clinical-milestones-2026): Where CRISPR gene editing stands in 2026 — Casgevy's rollout, Intellia, Beam, Prime Medicine, Verve, and a new FDA framework for ultra-rare disease treatment.
+- [What Blockchain Actually Solves (And What It Doesn't)](https://frontiertech.news/what-blockchain-actually-solves): Where enterprise blockchain actually works in 2026 — trade finance, supply chains, tokenization — and the five conditions under which projects still fail.
+
+## Topic Hubs
+
+- [Artificial Intelligence](https://frontiertech.news/ai)
+- [Blockchain Infrastructure](https://frontiertech.news/blockchain)
+- [Energy & the Grid](https://frontiertech.news/energy)
+- [Biotechnology & Gene Editing](https://frontiertech.news/biotech)
+- [Space Infrastructure](https://frontiertech.news/space)
+- [Climate & Agricultural Technology](https://frontiertech.news/climate)
+- [Full Archive](https://frontiertech.news/articles)
 
 ## About
 
-- [About FrontierTech.news](https://frontiertech.news/about.html)
-- [Editorial Policy](https://frontiertech.news/editorial-policy.html)
+- [About FrontierTech.news](https://frontiertech.news/about)
+- [Editorial Policy](https://frontiertech.news/editorial-policy)
+- [The FrontierTech Desk](https://frontiertech.news/editorial-desk)
+- [The FrontierTech Science & Health Desk](https://frontiertech.news/science-health-desk)
 
 ## Optional
 
-- [Privacy Policy](https://frontiertech.news/privacy-policy.html)
-- [Terms of Use](https://frontiertech.news/terms.html)
-- [Advertise](https://frontiertech.news/advertise.html)
+- [Privacy Policy](https://frontiertech.news/privacy-policy)
+- [Terms of Use](https://frontiertech.news/terms)
+- [Advertise](https://frontiertech.news/advertise)
