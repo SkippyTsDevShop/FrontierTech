@@ -25,3 +25,29 @@
 /terms.html  /terms  301
 /advertise.html  /advertise  301
 /index.html  /  301
+
+# Hub / archive pages published as flat <slug>.html at the repo root (see
+# build_site.FLAT_HUB_SLUGS) -- redirect the literal .html path to the
+# canonical extensionless one so the two never both serve as live duplicates.
+/ai.html  /ai  301
+/energy.html  /energy  301
+/biotech.html  /biotech  301
+/space.html  /space  301
+/blockchain.html  /blockchain  301
+/climate.html  /climate  301
+/articles.html  /articles  301
+
+# September 27 2026 article batch, also published as flat <slug>.html
+# (see build_site.FLAT_ARTICLE_SLUGS).
+/mrna-melanoma-vaccine-2026.html  /mrna-melanoma-vaccine-2026  301
+/eu-ai-act-compliance-2026.html  /eu-ai-act-compliance-2026  301
+/open-weight-models-2026.html  /open-weight-models-2026  301
+/enhanced-geothermal-fervo-2026.html  /enhanced-geothermal-fervo-2026  301
+/iron-air-battery-storage-2026.html  /iron-air-battery-storage-2026  301
+/ai-designed-drugs-isomorphic-2026.html  /ai-designed-drugs-isomorphic-2026  301
+/starlink-orbital-congestion-2026.html  /starlink-orbital-congestion-2026  301
+/private-space-stations-2026.html  /private-space-stations-2026  301
+/genius-act-stablecoins-2026.html  /genius-act-stablecoins-2026  301
+/onchain-identity-proof-of-personhood-2026.html  /onchain-identity-proof-of-personhood-2026  301
+/direct-air-capture-reality-check-2026.html  /direct-air-capture-reality-check-2026  301
+/precision-fermentation-dairy-2026.html  /precision-fermentation-dairy-2026  301
