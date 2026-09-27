@@ -1,200 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PumpReport</title>
-    <link>https://pumpreport.news/</link>
-    <description>Momentum, token launches, whale activity, and market culture — covered fast, sourced, and without the hype.</description>
-    <language>en-us</language>
-    <atom:link href="https://pumpreport.news/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 12:00:00 +0000</lastBuildDate>
-    <item>
-      <title>The History of the ICO</title>
-      <link>https://pumpreport.news/history-of-the-ico</link>
-      <guid isPermaLink="true">https://pumpreport.news/history-of-the-ico</guid>
-      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
-      <description>From a 2013 Bitcoin forum post to an $18M ether sale, a $5.6B boom, an SEC crackdown, and today's bonding-curve launchpads — the full history of the ICO.</description>
-    </item>
-    <item>
-      <title>Kalshi Is Selling the Midterms as a Market</title>
-      <link>https://pumpreport.news/kalshi-midterm-elections-2026-legal-battle</link>
-      <guid isPermaLink="true">https://pumpreport.news/kalshi-midterm-elections-2026-legal-battle</guid>
-      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Kalshi and Polymarket now price the 2026 midterms in real time, with Democrats favored in both chambers — while a CFTC-vs-states legal war escalates.</description>
-    </item>
-    <item>
-      <title>BTC Holds $86K: Squeeze First, Longs Second</title>
-      <link>https://pumpreport.news/btc-86k-87k-short-squeeze-longs-90k-battle</link>
-      <guid isPermaLink="true">https://pumpreport.news/btc-86k-87k-short-squeeze-longs-90k-battle</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Bitcoin reclaimed $86K on falling oil and ETF inflows — but futures data show forced short covering did the heavy lifting, not fresh conviction longs.</description>
-    </item>
-    <item>
-      <title>Crypto Token Launch Guide 2026</title>
-      <link>https://pumpreport.news/ultimate-guide-crypto-token-launches-2026</link>
-      <guid isPermaLink="true">https://pumpreport.news/ultimate-guide-crypto-token-launches-2026</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-      <description>How token launches actually work in 2026: ICO, IEO, IDO, fair launch, bonding curve, and stealth mint compared, plus a first-hour checklist for spotting rugs.</description>
-    </item>
-    <item>
-      <title>ZetaChain Holders Vote to Kill Their Own L1</title>
-      <link>https://pumpreport.news/zetachain-vote-kill-l1-migrate-zeta-solana</link>
-      <guid isPermaLink="true">https://pumpreport.news/zetachain-vote-kill-l1-migrate-zeta-solana</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-      <description>ZetaChain holders passed a 99% vote to retire their Cosmos L1 and migrate ZETA 1:1 to Solana — the vote premium, the squeeze, and what's still unresolved.</description>
-    </item>
-    <item>
-      <title>Why Arbitrum Jumped 26% While ETH Moved 7%</title>
-      <link>https://pumpreport.news/arbitrum-starknet-rally-ethereum-market-cap-mechanics</link>
-      <guid isPermaLink="true">https://pumpreport.news/arbitrum-starknet-rally-ethereum-market-cap-mechanics</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>ARB surged 26% and STRK 18% while ETH gained just 7% in the same rally. The reason is market cap math, not hype.</description>
-    </item>
-    <item>
-      <title>The $648M Short Squeeze That Hit Bitcoin</title>
-      <link>https://pumpreport.news/bitcoin-85k-short-squeeze-648-million</link>
-      <guid isPermaLink="true">https://pumpreport.news/bitcoin-85k-short-squeeze-648-million</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Bitcoin hit $84,984 as $648M in shorts got liquidated — but open interest climbed anyway, as leveraged longs replaced the shorts.</description>
-    </item>
-    <item>
-      <title>Bitcoin's Best Quarter Since 2024</title>
-      <link>https://pumpreport.news/bitcoin-q3-2026-bull-run-signals</link>
-      <guid isPermaLink="true">https://pumpreport.news/bitcoin-q3-2026-bull-run-signals</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>BTC gained 44% in Q3 2026 to $84,853 — still 48% below its record. Altcoins outran it. What's driving the rally, and why it's risky.</description>
-    </item>
-    <item>
-      <title>Crypto Buybacks Hit a Record $638 Million</title>
-      <link>https://pumpreport.news/crypto-token-buyback-record-638-million</link>
-      <guid isPermaLink="true">https://pumpreport.news/crypto-token-buyback-record-638-million</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Hyperliquid and pump.fun account for 90% of a record $638M in 2026 token buybacks — trading fees turned into stock-style repurchases.</description>
-    </item>
-    <item>
-      <title>No Polymarket Token Yet, Despite the Boom</title>
-      <link>https://pumpreport.news/polymarket-college-football-volume-no-token</link>
-      <guid isPermaLink="true">https://pumpreport.news/polymarket-college-football-volume-no-token</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>College football trading hit $790M this season; Polymarket volume is up 4,399% in a week. Still no token, despite a teased ticker.</description>
-    </item>
-    <item>
-      <title>Did Reflection Tokens STONK and ZCAT Just Peak?</title>
-      <link>https://pumpreport.news/reflection-tokens-stonk-zcat-boom-bust</link>
-      <guid isPermaLink="true">https://pumpreport.news/reflection-tokens-stonk-zcat-boom-bust</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>STONK crashed 26% then recovered. ZCAT has paid holders $2.8M in real Zcash. The case for a real asset class, and for a topped-out fad.</description>
-    </item>
-    <item>
-      <title>The Solana Launchpad Wars: StonkFun vs Pump.fun</title>
-      <link>https://pumpreport.news/stonkfun-pumpfun-launchpad-wars-solana</link>
-      <guid isPermaLink="true">https://pumpreport.news/stonkfun-pumpfun-launchpad-wars-solana</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>For one day, a stock-paired token launchpad out-earned pump.fun — and helped drive Solana's record 263,000 launches in a day.</description>
-    </item>
-    <item>
-      <title>The $21K-to-$3.78M Solana Launchpad Trade</title>
-      <link>https://pumpreport.news/whale-watch-zcat-stonk-3-78-million-trade</link>
-      <guid isPermaLink="true">https://pumpreport.news/whale-watch-zcat-stonk-3-78-million-trade</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <description>A wallet turned $21,000 into $3.78M on two Solana launchpad tokens — 1,626x on one position, 82x on the other, bought at launch.</description>
-    </item>
-    <item>
-      <title>Circle Built Arc for BlackRock. Memes Took Over</title>
-      <link>https://pumpreport.news/arc-chain-memecoin-takeover-blackrock</link>
-      <guid isPermaLink="true">https://pumpreport.news/arc-chain-memecoin-takeover-blackrock</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Circle's institutional Arc chain launched with BlackRock, Visa, and Mastercard as validators. Meme launchpads drove most of day-one volume.</description>
-    </item>
-    <item>
-      <title>Harmony Shuts Down. ONE Surged 165% Anyway.</title>
-      <link>https://pumpreport.news/harmony-one-shutdown-token-surge</link>
-      <guid isPermaLink="true">https://pumpreport.news/harmony-one-shutdown-token-surge</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Harmony is sunsetting its chain and migrating ONE to Ethereum, weeks after an exploit minted 26% of its supply. ONE surged 165% anyway.</description>
-    </item>
-    <item>
-      <title>LAPTOP's Burn Conditions Are Wired to 2028</title>
-      <link>https://pumpreport.news/laptop-token-burn-conditions-explained</link>
-      <guid isPermaLink="true">https://pumpreport.news/laptop-token-burn-conditions-explained</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <description>LAPTOP ties a 30% supply burn to 30 political and market conditions, including a 2028 election. Fake versions rallied 1,550%+ pre-launch.</description>
-    </item>
-    <item>
-      <title>AI Trading Bots: What They Actually Do</title>
-      <link>https://pumpreport.news/ai-trading-bots-2026-feature</link>
-      <guid isPermaLink="true">https://pumpreport.news/ai-trading-bots-2026-feature</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>3Commas, Pionex, Cryptohopper, and BulkQuant promise automated crypto trading. Here's what these bots actually execute versus the marketing.</description>
-    </item>
-    <item>
-      <title>The Anatomy of a Pump: Order Book Red Flags</title>
-      <link>https://pumpreport.news/anatomy-of-a-pump</link>
-      <guid isPermaLink="true">https://pumpreport.news/anatomy-of-a-pump</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Thin liquidity, spoofed walls, and coordinated buying leave the same fingerprints before every pump. Here's how to read the order book.</description>
-    </item>
-    <item>
-      <title>Best Crypto Perp Trading Platforms, Ranked</title>
-      <link>https://pumpreport.news/best-crypto-perp-trading-platforms-2026</link>
-      <guid isPermaLink="true">https://pumpreport.news/best-crypto-perp-trading-platforms-2026</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Kraken, Binance, Bybit, OKX, and Coinbase compared on fees, leverage, and where you're actually allowed to trade perps in 2026.</description>
-    </item>
-    <item>
-      <title>Reading the Real Crypto Trading Signals</title>
-      <link>https://pumpreport.news/crypto-trading-signals-rank-jumps-fdv</link>
-      <guid isPermaLink="true">https://pumpreport.news/crypto-trading-signals-rank-jumps-fdv</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>CMC rank jumps, FDV ratios, liquidity depth, whale flows, and social volume — what each trading signal does and doesn't tell you.</description>
-    </item>
-    <item>
-      <title>The Ultimate History of Meme Coins</title>
-      <link>https://pumpreport.news/history-of-memecoins-doge-to-gigachad</link>
-      <guid isPermaLink="true">https://pumpreport.news/history-of-memecoins-doge-to-gigachad</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>From Dogecoin's 2013 origin to a $150B peak that swallowed sitting presidents and rappers — the full history, and what keeps going wrong.</description>
-    </item>
-    <item>
-      <title>How to Spot the Next PEPE</title>
-      <link>https://pumpreport.news/how-to-spot-the-next-pepe</link>
-      <guid isPermaLink="true">https://pumpreport.news/how-to-spot-the-next-pepe</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>PEPE turned a joke into a $1.45B+ asset. Most copycats go to zero. Here's the framework traders use to separate signal from noise.</description>
-    </item>
-    <item>
-      <title>Hunter Biden's $LAPTOP Token Crashed 98%</title>
-      <link>https://pumpreport.news/laptop-token-crash-hunter-biden</link>
-      <guid isPermaLink="true">https://pumpreport.news/laptop-token-crash-hunter-biden</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>LAPTOP hit a $1.6B market cap within an hour on Base, then collapsed 98% from its peak. The full timeline and what it reveals.</description>
-    </item>
-    <item>
-      <title>The Meme Day Trader's Tech Stack</title>
-      <link>https://pumpreport.news/meme-day-trader-tech-stack</link>
-      <guid isPermaLink="true">https://pumpreport.news/meme-day-trader-tech-stack</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>The actual toolkit meme coin day traders use: DexScreener for charts, Phantom for a wallet, sniper bots, and Robinhood as the on-ramp.</description>
-    </item>
-    <item>
-      <title>Where the Next 1000x Call Really Comes From</title>
-      <link>https://pumpreport.news/next-1000x-before-your-group-chat</link>
-      <guid isPermaLink="true">https://pumpreport.news/next-1000x-before-your-group-chat</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Telegram groups, crypto Twitter, and Truth Social all claim to move first. Here's what the data says really happens in each channel.</description>
-    </item>
-    <item>
-      <title>Top DEX Markets for Meme Coin Trading in 2026</title>
-      <link>https://pumpreport.news/top-dex-markets-for-meme-trading-2026</link>
-      <guid isPermaLink="true">https://pumpreport.news/top-dex-markets-for-meme-trading-2026</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Jupiter, Raydium, Orca, Meteora, PumpSwap, and the new Robinhood Chain meme coin market compared for fresh-pool access, fees, and liquidity depth in 2026.</description>
-    </item>
-    <item>
-      <title>The Ultimate Guide to Perpetual Futures Markets</title>
-      <link>https://pumpreport.news/ultimate-guide-to-perp-markets</link>
-      <guid isPermaLink="true">https://pumpreport.news/ultimate-guide-to-perp-markets</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <description>Funding rates, leverage and liquidation mechanics, and how to compare CEX and DEX perp venues — Hyperliquid, dYdX, GMX, Kraken, Binance, and more.</description>
-    </item>
-  </channel>
+<channel>
+  <title>FrontierTech.news</title>
+  <link>https://frontiertech.news/</link>
+  <description>Emerging technology journalism for builders and early adopters. AI, blockchain, energy, biotech, space, and climate tech, explained clearly.</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 27 Sep 2026 10:27:45 -0500</lastBuildDate>
+  <atom:link href="https://frontiertech.news/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The First mRNA Cancer Vaccine Just Cleared a Phase 3 Trial</title>
+    <link>https://frontiertech.news/mrna-melanoma-vaccine-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/mrna-melanoma-vaccine-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Merck and Moderna's mRNA melanoma vaccine became the first cancer vaccine to succeed in a randomized Phase 3 trial — a decade-long goal for oncology.</description>
+  </item>
+  <item>
+    <title>The EU's AI Act Deadline Just Slipped by Two Years</title>
+    <link>https://frontiertech.news/eu-ai-act-compliance-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/eu-ai-act-compliance-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>The EU delayed its AI Act's toughest high-risk rules to December 2027 — but a nearer-term transparency deadline still applies this year, with real limits.</description>
+  </item>
+  <item>
+    <title>Open-Weight AI Models Are Closing In on the Frontier</title>
+    <link>https://frontiertech.news/open-weight-models-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/open-weight-models-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>DeepSeek, Qwen, Llama, and Mistral are now benchmarked against GPT and Claude, not each other, in 2026 — but their license terms differ enough to matter more.</description>
+  </item>
+  <item>
+    <title>Enhanced Geothermal Just Achieved First Power in Utah</title>
+    <link>https://frontiertech.news/enhanced-geothermal-fervo-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/enhanced-geothermal-fervo-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Fervo Energy's Cape Station in Utah became the first utility-scale enhanced geothermal project to reach first power, using drilling borrowed from oil and gas.</description>
+  </item>
+  <item>
+    <title>The Battery That Runs on Rust Just Landed Its Biggest Deal Yet</title>
+    <link>https://frontiertech.news/iron-air-battery-storage-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/iron-air-battery-storage-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Form Energy's iron-air battery, built for storage lithium can't cheaply cover, landed a 300-megawatt, 30-gigawatt-hour deal backing a Google data center.</description>
+  </item>
+  <item>
+    <title>AlphaFold's Drug-Design Spinoff Just Entered Human Trials</title>
+    <link>https://frontiertech.news/ai-designed-drugs-isomorphic-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ai-designed-drugs-isomorphic-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Isomorphic Labs, the AlphaFold-based DeepMind spinoff, moved its first AI-designed drugs into human trials in 2026 — without naming the target or drug.</description>
+  </item>
+  <item>
+    <title>Space Is Getting Crowded Enough That SpaceX Is Moving Starlink</title>
+    <link>https://frontiertech.news/starlink-orbital-congestion-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/starlink-orbital-congestion-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>SpaceX is lowering nearly 10,000 Starlink satellites to a safer altitude in 2026, after ESA found collision-avoidance maneuvers topped 355,000 in a single year.</description>
+  </item>
+  <item>
+    <title>The ISS Retires in 2030. Its Replacements Are Still Being Built</title>
+    <link>https://frontiertech.news/private-space-stations-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/private-space-stations-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>NASA plans to deorbit the ISS in 2030. The four companies building replacements — Axiom, Orbital Reef, Starlab, Vast — are all still under construction.</description>
+  </item>
+  <item>
+    <title>Stablecoins Just Got Their First Real Federal Rulebook</title>
+    <link>https://frontiertech.news/genius-act-stablecoins-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/genius-act-stablecoins-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Treasury, the OCC, and the FDIC spent 2026 writing rules under the GENIUS Act — and the framework turns out to be more about laundering than reserves.</description>
+  </item>
+  <item>
+    <title>Blockchain's Weirdest Use Case: Proving You're Not a Bot</title>
+    <link>https://frontiertech.news/onchain-identity-proof-of-personhood-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/onchain-identity-proof-of-personhood-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>As AI agents get convincing enough to pass as human, proof-of-personhood systems like World ID have scaled to 17 million users — short of their goal.</description>
+  </item>
+  <item>
+    <title>The World's Largest Carbon-Capture Plant Just Hit a Snag</title>
+    <link>https://frontiertech.news/direct-air-capture-reality-check-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/direct-air-capture-reality-check-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Occidental's Stratos plant, the world's largest direct air capture facility, hit its third 2026 delay — an equipment issue unrelated to the core technology.</description>
+  </item>
+  <item>
+    <title>Lab-Brewed Dairy Protein Is Quietly Ahead of Lab-Grown Meat</title>
+    <link>https://frontiertech.news/precision-fermentation-dairy-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/precision-fermentation-dairy-2026</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Precision fermentation brews real dairy and egg proteins with engineered microbes, not animals. Perfect Day says it's sold out, even as investment fell sharply.</description>
+  </item>
+  <item>
+    <title>A CRISPR Cholesterol Therapy Just Cleared Its First Human Safety Test</title>
+    <link>https://frontiertech.news/crispr-cholesterol-human-trial-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/crispr-cholesterol-human-trial-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>CRISPR Therapeutics' CTX310, a one-time gene-editing cholesterol treatment, just posted first-in-human data — including LDL reductions still holding a year later.</description>
+  </item>
+  <item>
+    <title>Tokenized Treasuries Went From Buzzword to a Real Market — Here's the 2026 Number</title>
+    <link>https://frontiertech.news/tokenized-treasuries-rwa-market-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/tokenized-treasuries-rwa-market-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Tokenized U.S. Treasury funds have grown into a real, multi-billion-dollar market in 2026 — the actual size, who's running it, and where the RWA thesis heads next.</description>
+  </item>
+  <item>
+    <title>The U.S. Just Added a Record Amount of Battery Storage. Here's Why That Number Matters</title>
+    <link>https://frontiertech.news/record-battery-storage-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/record-battery-storage-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>The U.S. added a record 20.2 GWh of battery storage in Q2 2026 — where it's built, why it matters for grid reliability, and how it fits the nuclear buildout.</description>
+  </item>
+  <item>
+    <title>Is NASA's Artemis Moon Program Actually on Schedule?</title>
+    <link>https://frontiertech.news/artemis-moon-program-schedule-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/artemis-moon-program-schedule-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>A May 2026 New Glenn explosion put Blue Origin's Artemis lander program in question. Here's what happened, NASA's response, and the real state of the timeline.</description>
+  </item>
+  <item>
+    <title>Brain-Computer Interfaces Are Already Working. Here's How Far They've Actually Gotten</title>
+    <link>https://frontiertech.news/brain-computer-interfaces-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/brain-computer-interfaces-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Where Neuralink and Synchron's brain-computer interfaces stand in 2026 — patient numbers, what's been shown, and the gap left before FDA approval.</description>
+  </item>
+  <item>
+    <title>Dire Wolves Are Real Again. Is a Woolly Mammoth Next?</title>
+    <link>https://frontiertech.news/de-extinction-colossal-biosciences-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/de-extinction-colossal-biosciences-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Colossal Biosciences' dire wolves are thriving in 2026, but the woolly mammoth timeline slipped to the early 2030s — the honest state of de-extinction science.</description>
+  </item>
+  <item>
+    <title>Fusion Energy Just Got a Lot More Real. Here's the 2026 Progress Report</title>
+    <link>https://frontiertech.news/fusion-energy-milestones-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/fusion-energy-milestones-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Commonwealth Fusion's SPARC reactor is roughly 75% complete in 2026, targeting net fusion energy by 2027 — what's built, what's left, and why money backs it.</description>
+  </item>
+  <item>
+    <title>Beaming Solar Power Down From Orbit Sounds Insane. It's Also a Real Program Now</title>
+    <link>https://frontiertech.news/space-based-solar-power-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/space-based-solar-power-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Space-based solar power moved from thought experiment to real hardware in 2026 — Caltech's in-space demo, China's wireless power tests, and ESA's SOLARIS roadmap.</description>
+  </item>
+  <item>
+    <title>China Just Launched the World's First Commercial Underwater Data Center</title>
+    <link>https://frontiertech.news/underwater-data-centers-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/underwater-data-centers-2026</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
+    <description>China's Hainan underwater data center now runs commercially, cooled free by seawater — how it works, why it matters, and Microsoft's earlier attempt.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to Quantum Computers</title>
+    <link>https://frontiertech.news/ultimate-guide-quantum-computers-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-quantum-computers-2026</guid>
+    <pubDate>Sun, 20 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What a quantum computer actually is, and isn't, in 2026 — IBM's roadmap, the error-correction problem, and what's genuinely worth watching next.</description>
+  </item>
+  <item>
+    <title>Humanoid Robots Are Leaving the Lab — Are They Ready for Work?</title>
+    <link>https://frontiertech.news/humanoid-robots-leaving-the-lab-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/humanoid-robots-leaving-the-lab-2026</guid>
+    <pubDate>Sat, 19 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Humanoid robots have moved from research demos to real factory floors in 2026. Here's what BMW and Agility Robotics have deployed — and what still isn't ready.</description>
+  </item>
+  <item>
+    <title>Space-Based Data Centers Sound Crazy. Here's Why Companies Are Considering Them</title>
+    <link>https://frontiertech.news/space-based-data-centers-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/space-based-data-centers-2026</guid>
+    <pubDate>Fri, 18 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Why Starcloud, Nvidia, and SpaceX are seriously pursuing orbital data centers in 2026 — the constraints driving the idea and the technical hurdles still unsolved.</description>
+  </item>
+  <item>
+    <title>Why Data Centers Are Becoming the Factories of the AI Economy</title>
+    <link>https://frontiertech.news/data-centers-factories-ai-economy-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/data-centers-factories-ai-economy-2026</guid>
+    <pubDate>Thu, 17 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Hyperscaler data center capex nears $700 billion in 2026 — why that infrastructure works like the AI economy's factory floor, and where the analogy strains.</description>
+  </item>
+  <item>
+    <title>Small Modular Reactors Could Change How We Power the Grid</title>
+    <link>https://frontiertech.news/small-modular-reactors-grid-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/small-modular-reactors-grid-2026</guid>
+    <pubDate>Wed, 16 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What small modular reactors are, which utilities and tech companies are signing 2026 deals, and why grid interconnection timelines remain the real obstacle.</description>
+  </item>
+  <item>
+    <title>Why Farms Are Betting on Hyperlocal Weather Data</title>
+    <link>https://frontiertech.news/agtech-weather-monitoring-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/agtech-weather-monitoring-2026</guid>
+    <pubDate>Tue, 15 Sep 2026 08:00:00 -0500</pubDate>
+    <description>American farms lost over $20 billion to weather in 2024. Here's how hyperlocal weather monitoring became a real AgTech category — and its real limits.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide for AI Agents</title>
+    <link>https://frontiertech.news/ultimate-guide-ai-agents-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-ai-agents-2026</guid>
+    <pubDate>Mon, 14 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What is an AI agent, real examples already in use today, and the simplest way to launch your first one — a practical, no-hype guide for 2026.</description>
+  </item>
+  <item>
+    <title>Inside SpaceX's $100 Billion Bet on Coastal Louisiana</title>
+    <link>https://frontiertech.news/spacex-100-billion-louisiana-spaceport</link>
+    <guid isPermaLink="true">https://frontiertech.news/spacex-100-billion-louisiana-spaceport</guid>
+    <pubDate>Mon, 14 Sep 2026 08:00:00 -0500</pubDate>
+    <description>SpaceX plans a $100 billion, 10-launchpad spaceport in Vermilion Parish, Louisiana. Here's what's confirmed about the jobs, the timeline, and the tradeoffs.</description>
+  </item>
+  <item>
+    <title>The AI Tools Actually Worth Paying For in 2026</title>
+    <link>https://frontiertech.news/ai-tools-worth-paying-for-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ai-tools-worth-paying-for-2026</guid>
+    <pubDate>Sun, 13 Sep 2026 08:00:00 -0500</pubDate>
+    <description>A practical, no-hype guide to the AI subscriptions worth keeping in 2026 — from general chatbots to coding agents, research, image, and video tools.</description>
+  </item>
+</channel>
 </rss>
