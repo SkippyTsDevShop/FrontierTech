@@ -400,7 +400,7 @@ Once these rules are finalized, PPSIs will need to register with the relevant su
 
 ## The honest caveat
 
-As of late 2026, these are still proposed rules open for public comment, not final regulations — the rulemaking process typically takes months to finalize after a comment period closes, and the specifics can and do change in response to industry pushback. The GENIUS Act itself is settled law; the operational rules that determine exactly what compliance costs an issuer will actually bear are still being written.
+As of September 2026, these are still proposed rules open for public comment, not final regulations — the rulemaking process typically takes months to finalize after a comment period closes, and the specifics can and do change in response to industry pushback. The GENIUS Act itself is settled law; the operational rules that determine exactly what compliance costs an issuer will actually bear are still being written.
 
 SOURCES:
 - U.S. Department of the Treasury &mdash; Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance: https://home.treasury.gov/news/press-releases/sb0435
@@ -414,7 +414,7 @@ A: It focuses on anti-money-laundering and sanctions compliance, subjecting perm
 Q: Which regulator oversees stablecoin issuers?
 A: It depends on the issuer's structure: the OCC oversees federally chartered issuers, the FDIC oversees those affiliated with insured depository institutions, and state regulators oversee others, with Treasury coordinating anti-money-laundering rules across all of them.
 Q: Are these rules final yet?
-A: No. As of late 2026, they remain proposed rules open for public comment through FinCEN and OFAC, not finalized regulations, and the specific requirements could still change before taking effect.
+A: No. As of September 2026, they remain proposed rules open for public comment through FinCEN and OFAC, not finalized regulations, and the specific requirements could still change before taking effect.
 
 ========================================================================
 TITLE: Blockchain's Weirdest Use Case: Proving You're Not a Bot

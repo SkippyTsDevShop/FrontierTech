@@ -690,6 +690,21 @@ article.post { padding-bottom: 60px; }
   cursor: pointer;
 }
 .newsletter-form button:hover { background: #6A85FF; }
+.newsletter-coming-soon {
+  padding: 12px 20px;
+  border-radius: var(--radius-sm);
+  border: 1px solid #3A3F4B;
+  background: #171A22;
+  color: #B7BCCB !important;
+  font-weight: 600;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.btn-disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.btn-disabled:hover { background: var(--ink) !important; }
 
 /* ---------- Footer ---------- */
 footer.site-footer {
