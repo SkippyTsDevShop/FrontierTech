@@ -5,8 +5,85 @@
   <link>https://frontiertech.news/</link>
   <description>Emerging technology journalism for builders and early adopters. AI, blockchain, energy, biotech, space, and climate tech, explained clearly.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 27 Sep 2026 12:19:32 -0500</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 11:34:16 -0500</lastBuildDate>
   <atom:link href="https://frontiertech.news/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Is Energy Becoming the Ultimate Currency of the Digital Age?</title>
+    <link>https://frontiertech.news/energy-bitcoin-ai-currency-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/energy-bitcoin-ai-currency-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Bitcoin mining, AI data centers, and the grid are converging on one resource: electricity, now a strategic asset rather than just a utility bill.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to Nuclear Power and Small Modular Reactors</title>
+    <link>https://frontiertech.news/ultimate-guide-nuclear-smr-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-nuclear-smr-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What small modular reactors actually are, which companies are building them, and how close TerraPower, Kairos, NuScale, and X-energy are to real electricity in 2026.</description>
+  </item>
+  <item>
+    <title>DePIN: The Blockchain Trend Turning Idle Hardware Into Income</title>
+    <link>https://frontiertech.news/depin-decentralized-infrastructure-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/depin-decentralized-infrastructure-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>DePIN networks pay crypto rewards for real-world hardware contributions. What it actually is, which projects are real, and why revenue lags market value.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to Stablecoins</title>
+    <link>https://frontiertech.news/ultimate-guide-stablecoins-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-stablecoins-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What stablecoins are, how USDT and USDC dominate the $308 billion market, and what the GENIUS Act requires of issuers — without the crypto jargon.</description>
+  </item>
+  <item>
+    <title>Longevity Science's Reality Check: Do Rapamycin and Senolytics Actually Work?</title>
+    <link>https://frontiertech.news/longevity-science-reality-check-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/longevity-science-reality-check-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Rapamycin and senolytics dominate longevity clinics in 2026. What the actual clinical evidence shows — and why one biohacker's own doctor pulled him off it.</description>
+  </item>
+  <item>
+    <title>Lab-Grown Organs: How Close Is Bioprinting to a Real Transplant?</title>
+    <link>https://frontiertech.news/bioprinted-organs-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/bioprinted-organs-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>3D-bioprinted organs can be shaped and grown in a lab, but vascularization and scale-up remain unsolved — the real distance to a transplant.</description>
+  </item>
+  <item>
+    <title>Asteroid Mining Isn't Science Fiction Anymore — Here's Who's Actually Trying</title>
+    <link>https://frontiertech.news/asteroid-mining-reality-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/asteroid-mining-reality-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>AstroForge has launched real missions toward platinum-rich asteroids on a startup budget. What's actually happened, and how far mining is from a payload.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to Reusable Rockets</title>
+    <link>https://frontiertech.news/ultimate-guide-reusable-rockets-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-reusable-rockets-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>How rocket reusability actually works, why it matters economically, and how SpaceX's Falcon 9 record compares to Blue Origin's first New Glenn reuse in 2026.</description>
+  </item>
+  <item>
+    <title>AI Video Got Good Enough to Worry Hollywood. OpenAI Killed Its Flagship App Anyway.</title>
+    <link>https://frontiertech.news/ai-video-generation-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ai-video-generation-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>OpenAI shut down its Sora video app in April 2026 despite impressive output, because the unit economics never worked. What happened, and why Veo differs.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to Humanoid Robots</title>
+    <link>https://frontiertech.news/ultimate-guide-humanoid-robots-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-humanoid-robots-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>A real-world comparison of Figure, Agility Robotics, Tesla Optimus, and Unitree's humanoid robots — deployment hours, customers, and what's still a demo.</description>
+  </item>
+  <item>
+    <title>Solar Geoengineering: The Climate Fix Nobody Wants to Talk About</title>
+    <link>https://frontiertech.news/solar-geoengineering-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/solar-geoengineering-2026</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Solar geoengineering could cool the planet by reflecting sunlight, and private companies are already testing it. What a 2026 GAO report says about the oversight gap.</description>
+  </item>
   <item>
     <title>The First mRNA Cancer Vaccine Just Cleared a Phase 3 Trial</title>
     <link>https://frontiertech.news/mrna-melanoma-vaccine-2026</link>
@@ -139,83 +216,6 @@
     <guid isPermaLink="true">https://frontiertech.news/fusion-energy-milestones-2026</guid>
     <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
     <description>Commonwealth Fusion's SPARC reactor is roughly 75% complete in 2026, targeting net fusion energy by 2027 — what's built, what's left, and why money backs it.</description>
-  </item>
-  <item>
-    <title>Beaming Solar Power Down From Orbit Sounds Insane. It's Also a Real Program Now</title>
-    <link>https://frontiertech.news/space-based-solar-power-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/space-based-solar-power-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Space-based solar power moved from thought experiment to real hardware in 2026 — Caltech's in-space demo, China's wireless power tests, and ESA's SOLARIS roadmap.</description>
-  </item>
-  <item>
-    <title>China Just Launched the World's First Commercial Underwater Data Center</title>
-    <link>https://frontiertech.news/underwater-data-centers-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/underwater-data-centers-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>China's Hainan underwater data center now runs commercially, cooled free by seawater — how it works, why it matters, and Microsoft's earlier attempt.</description>
-  </item>
-  <item>
-    <title>The Ultimate Guide to Quantum Computers</title>
-    <link>https://frontiertech.news/ultimate-guide-quantum-computers-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-quantum-computers-2026</guid>
-    <pubDate>Sun, 20 Sep 2026 08:00:00 -0500</pubDate>
-    <description>What a quantum computer actually is, and isn't, in 2026 — IBM's roadmap, the error-correction problem, and what's genuinely worth watching next.</description>
-  </item>
-  <item>
-    <title>Humanoid Robots Are Leaving the Lab — Are They Ready for Work?</title>
-    <link>https://frontiertech.news/humanoid-robots-leaving-the-lab-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/humanoid-robots-leaving-the-lab-2026</guid>
-    <pubDate>Sat, 19 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Humanoid robots have moved from research demos to real factory floors in 2026. Here's what BMW and Agility Robotics have deployed — and what still isn't ready.</description>
-  </item>
-  <item>
-    <title>Space-Based Data Centers Sound Crazy. Here's Why Companies Are Considering Them</title>
-    <link>https://frontiertech.news/space-based-data-centers-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/space-based-data-centers-2026</guid>
-    <pubDate>Fri, 18 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Why Starcloud, Nvidia, and SpaceX are seriously pursuing orbital data centers in 2026 — the constraints driving the idea and the technical hurdles still unsolved.</description>
-  </item>
-  <item>
-    <title>Why Data Centers Are Becoming the Factories of the AI Economy</title>
-    <link>https://frontiertech.news/data-centers-factories-ai-economy-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/data-centers-factories-ai-economy-2026</guid>
-    <pubDate>Thu, 17 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Hyperscaler data center capex nears $700 billion in 2026 — why that infrastructure works like the AI economy's factory floor, and where the analogy strains.</description>
-  </item>
-  <item>
-    <title>Small Modular Reactors Could Change How We Power the Grid</title>
-    <link>https://frontiertech.news/small-modular-reactors-grid-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/small-modular-reactors-grid-2026</guid>
-    <pubDate>Wed, 16 Sep 2026 08:00:00 -0500</pubDate>
-    <description>What small modular reactors are, which utilities and tech companies are signing 2026 deals, and why grid interconnection timelines remain the real obstacle.</description>
-  </item>
-  <item>
-    <title>Why Farms Are Betting on Hyperlocal Weather Data</title>
-    <link>https://frontiertech.news/agtech-weather-monitoring-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/agtech-weather-monitoring-2026</guid>
-    <pubDate>Tue, 15 Sep 2026 08:00:00 -0500</pubDate>
-    <description>American farms lost over $20 billion to weather in 2024. Here's how hyperlocal weather monitoring became a real AgTech category — and its real limits.</description>
-  </item>
-  <item>
-    <title>The Ultimate Guide for AI Agents</title>
-    <link>https://frontiertech.news/ultimate-guide-ai-agents-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/ultimate-guide-ai-agents-2026</guid>
-    <pubDate>Mon, 14 Sep 2026 08:00:00 -0500</pubDate>
-    <description>What is an AI agent, real examples already in use today, and the simplest way to launch your first one — a practical, no-hype guide for 2026.</description>
-  </item>
-  <item>
-    <title>Inside SpaceX's $100 Billion Bet on Coastal Louisiana</title>
-    <link>https://frontiertech.news/spacex-100-billion-louisiana-spaceport</link>
-    <guid isPermaLink="true">https://frontiertech.news/spacex-100-billion-louisiana-spaceport</guid>
-    <pubDate>Mon, 14 Sep 2026 08:00:00 -0500</pubDate>
-    <description>SpaceX plans a $100 billion, 10-launchpad spaceport in Vermilion Parish, Louisiana. Here's what's confirmed about the jobs, the timeline, and the tradeoffs.</description>
-  </item>
-  <item>
-    <title>The AI Tools Actually Worth Paying For in 2026</title>
-    <link>https://frontiertech.news/ai-tools-worth-paying-for-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/ai-tools-worth-paying-for-2026</guid>
-    <pubDate>Sun, 13 Sep 2026 08:00:00 -0500</pubDate>
-    <description>A practical, no-hype guide to the AI subscriptions worth keeping in 2026 — from general chatbots to coding agents, research, image, and video tools.</description>
   </item>
 </channel>
 </rss>
