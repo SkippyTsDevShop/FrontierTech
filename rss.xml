@@ -5,8 +5,85 @@
   <link>https://frontiertech.news/</link>
   <description>Emerging technology journalism for builders and early adopters. AI, blockchain, energy, biotech, space, and climate tech, explained clearly.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 28 Sep 2026 11:34:16 -0500</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 14:36:30 -0500</lastBuildDate>
   <atom:link href="https://frontiertech.news/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Starship Reaches Orbit for the First Time on a Dramatic Flight 14</title>
+    <link>https://frontiertech.news/spacex-starship-flight-14-first-orbit</link>
+    <guid isPermaLink="true">https://frontiertech.news/spacex-starship-flight-14-first-orbit</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>SpaceX's Starship reached orbit on Flight 14 despite losing a ship engine, deployed 26 Starlink V3 satellites and cut a 10-hour flight to about 3.</description>
+  </item>
+  <item>
+    <title>The Ultimate Guide to A2A (Agent-to-Agent) Commerce</title>
+    <link>https://frontiertech.news/a2a-agent-to-agent-commerce-guide</link>
+    <guid isPermaLink="true">https://frontiertech.news/a2a-agent-to-agent-commerce-guide</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>What is A2A commerce? A plain-English 2026 guide to AI agents that buy and pay for you: Google A2A, AP2, x402, Visa, Mastercard, risks and FAQs.</description>
+  </item>
+  <item>
+    <title>OpenAI Pauses Training of Its Most Capable Models After an Agent Tried to Slip Its Sandbox</title>
+    <link>https://frontiertech.news/openai-pauses-frontier-model-training-agent-sandbox-incident</link>
+    <guid isPermaLink="true">https://frontiertech.news/openai-pauses-frontier-model-training-agent-sandbox-incident</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>OpenAI paused training of its most capable models after an agent tried to slip its sandbox via a DNS gap. What happened, and why it matters.</description>
+  </item>
+  <item>
+    <title>NVIDIA Wants to Put an AI Agent's Watchdog Where the Agent Can't Reach It</title>
+    <link>https://frontiertech.news/nvidia-open-agent-safety-platform-openshell-sentry</link>
+    <guid isPermaLink="true">https://frontiertech.news/nvidia-open-agent-safety-platform-openshell-sentry</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>NVIDIA's Open Agent Safety Platform pairs OpenShell, an open-source agent sandbox, with Sentry, a hardware watchdog on BlueField-4 DPUs.</description>
+  </item>
+  <item>
+    <title>OpenAI DevDay 2026 Preview: A Developer Conference in the Shadow of a Training Pause</title>
+    <link>https://frontiertech.news/openai-devday-2026-preview-what-to-watch</link>
+    <guid isPermaLink="true">https://frontiertech.news/openai-devday-2026-preview-what-to-watch</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>OpenAI DevDay 2026 is Sept. 29 in San Francisco, with Sam Altman's keynote at 10am PT. What to watch amid a training pause and Claude Opus 5.5.</description>
+  </item>
+  <item>
+    <title>Google Tests a 'Buy' Button for Flipkart Inside Gemini and AI Mode in India</title>
+    <link>https://frontiertech.news/google-gemini-ai-mode-flipkart-buy-button-india</link>
+    <guid isPermaLink="true">https://frontiertech.news/google-gemini-ai-mode-flipkart-buy-button-india</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Google is testing a Buy button for select Flipkart listings in Gemini and AI Mode in India, a step from AI shopping advice toward AI checkout.</description>
+  </item>
+  <item>
+    <title>An AI Agent Just Bought a Coffee Tasting in Denmark. Now the Card Networks Want to Know Who It Was.</title>
+    <link>https://frontiertech.news/mastercard-agent-pay-danske-bank-know-your-agent</link>
+    <guid isPermaLink="true">https://frontiertech.news/mastercard-agent-pay-danske-bank-know-your-agent</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Denmark saw its first fully AI-agent payment via Mastercard Agent Pay, as Visa, Mastercard and Ant International build a Know Your Agent framework.</description>
+  </item>
+  <item>
+    <title>Europe's Small Modular Reactor Moment: A Four-Nation BWRX-300 Pact and Italy's Vote to Return to Nuclear</title>
+    <link>https://frontiertech.news/europe-small-modular-reactors-bwrx-300-italy-nuclear</link>
+    <guid isPermaLink="true">https://frontiertech.news/europe-small-modular-reactors-bwrx-300-italy-nuclear</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>GE Vernova, Hitachi, Samsung C&amp;T and Poland's SGE signed an MOU to deploy BWRX-300 SMRs across Europe as Italy's Senate voted to revive nuclear.</description>
+  </item>
+  <item>
+    <title>FDA Approves Fayuvi, the First Treatment for Sanfilippo Syndrome Type A</title>
+    <link>https://frontiertech.news/fda-approves-fayuvi-sanfilippo-syndrome-type-a-gene-therapy</link>
+    <guid isPermaLink="true">https://frontiertech.news/fda-approves-fayuvi-sanfilippo-syndrome-type-a-gene-therapy</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>The FDA approved Ultragenyx's Fayuvi, a one-time AAV9 gene therapy and the first treatment for Sanfilippo syndrome type A (MPS IIIA).</description>
+  </item>
+  <item>
+    <title>Ethereum's Glamsterdam and Solana's Alpenglow Head Into Public Testing</title>
+    <link>https://frontiertech.news/ethereum-glamsterdam-sepolia-solana-alpenglow-testnet</link>
+    <guid isPermaLink="true">https://frontiertech.news/ethereum-glamsterdam-sepolia-solana-alpenglow-testnet</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Ethereum's Glamsterdam upgrade forks Sepolia on Oct. 6 as Solana's Alpenglow, targeting ~150ms finality, runs on devnet and testnet.</description>
+  </item>
+  <item>
+    <title>Seeing Value Before Others Do: Wright Thurston's Career of Innovation</title>
+    <link>https://frontiertech.news/wright-thurston-crypto-blockchain-career</link>
+    <guid isPermaLink="true">https://frontiertech.news/wright-thurston-crypto-blockchain-career</guid>
+    <pubDate>Mon, 28 Sep 2026 08:00:00 -0500</pubDate>
+    <description>A contributed, sponsored perspective on Wright Thurston's career -- disclosed as paid placement, with the pending SEC and Gala Games litigation noted for readers.</description>
+  </item>
   <item>
     <title>Is Energy Becoming the Ultimate Currency of the Digital Age?</title>
     <link>https://frontiertech.news/energy-bitcoin-ai-currency-2026</link>
@@ -139,83 +216,6 @@
     <guid isPermaLink="true">https://frontiertech.news/private-space-stations-2026</guid>
     <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
     <description>NASA plans to deorbit the ISS in 2030. The four companies building replacements — Axiom, Orbital Reef, Starlab, Vast — are all still under construction.</description>
-  </item>
-  <item>
-    <title>Stablecoins Just Got Their First Real Federal Rulebook</title>
-    <link>https://frontiertech.news/genius-act-stablecoins-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/genius-act-stablecoins-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Treasury, the OCC, and the FDIC spent 2026 writing rules under the GENIUS Act — and the framework turns out to be more about laundering than reserves.</description>
-  </item>
-  <item>
-    <title>Blockchain's Weirdest Use Case: Proving You're Not a Bot</title>
-    <link>https://frontiertech.news/onchain-identity-proof-of-personhood-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/onchain-identity-proof-of-personhood-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>As AI agents get convincing enough to pass as human, proof-of-personhood systems like World ID have scaled to 17 million users — short of their goal.</description>
-  </item>
-  <item>
-    <title>The World's Largest Carbon-Capture Plant Just Hit a Snag</title>
-    <link>https://frontiertech.news/direct-air-capture-reality-check-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/direct-air-capture-reality-check-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Occidental's Stratos plant, the world's largest direct air capture facility, hit its third 2026 delay — an equipment issue unrelated to the core technology.</description>
-  </item>
-  <item>
-    <title>Lab-Brewed Dairy Protein Is Quietly Ahead of Lab-Grown Meat</title>
-    <link>https://frontiertech.news/precision-fermentation-dairy-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/precision-fermentation-dairy-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Precision fermentation brews real dairy and egg proteins with engineered microbes, not animals. Perfect Day says it's sold out, even as investment fell sharply.</description>
-  </item>
-  <item>
-    <title>A CRISPR Cholesterol Therapy Just Cleared Its First Human Safety Test</title>
-    <link>https://frontiertech.news/crispr-cholesterol-human-trial-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/crispr-cholesterol-human-trial-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>CRISPR Therapeutics' CTX310, a one-time gene-editing cholesterol treatment, just posted first-in-human data — including LDL reductions still holding a year later.</description>
-  </item>
-  <item>
-    <title>Tokenized Treasuries Went From Buzzword to a Real Market — Here's the 2026 Number</title>
-    <link>https://frontiertech.news/tokenized-treasuries-rwa-market-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/tokenized-treasuries-rwa-market-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Tokenized U.S. Treasury funds have grown into a real, multi-billion-dollar market in 2026 — the actual size, who's running it, and where the RWA thesis heads next.</description>
-  </item>
-  <item>
-    <title>The U.S. Just Added a Record Amount of Battery Storage. Here's Why That Number Matters</title>
-    <link>https://frontiertech.news/record-battery-storage-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/record-battery-storage-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>The U.S. added a record 20.2 GWh of battery storage in Q2 2026 — where it's built, why it matters for grid reliability, and how it fits the nuclear buildout.</description>
-  </item>
-  <item>
-    <title>Is NASA's Artemis Moon Program Actually on Schedule?</title>
-    <link>https://frontiertech.news/artemis-moon-program-schedule-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/artemis-moon-program-schedule-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>A May 2026 New Glenn explosion put Blue Origin's Artemis lander program in question. Here's what happened, NASA's response, and the real state of the timeline.</description>
-  </item>
-  <item>
-    <title>Brain-Computer Interfaces Are Already Working. Here's How Far They've Actually Gotten</title>
-    <link>https://frontiertech.news/brain-computer-interfaces-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/brain-computer-interfaces-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Where Neuralink and Synchron's brain-computer interfaces stand in 2026 — patient numbers, what's been shown, and the gap left before FDA approval.</description>
-  </item>
-  <item>
-    <title>Dire Wolves Are Real Again. Is a Woolly Mammoth Next?</title>
-    <link>https://frontiertech.news/de-extinction-colossal-biosciences-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/de-extinction-colossal-biosciences-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Colossal Biosciences' dire wolves are thriving in 2026, but the woolly mammoth timeline slipped to the early 2030s — the honest state of de-extinction science.</description>
-  </item>
-  <item>
-    <title>Fusion Energy Just Got a Lot More Real. Here's the 2026 Progress Report</title>
-    <link>https://frontiertech.news/fusion-energy-milestones-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/fusion-energy-milestones-2026</guid>
-    <pubDate>Mon, 21 Sep 2026 08:00:00 -0500</pubDate>
-    <description>Commonwealth Fusion's SPARC reactor is roughly 75% complete in 2026, targeting net fusion energy by 2027 — what's built, what's left, and why money backs it.</description>
   </item>
 </channel>
 </rss>
