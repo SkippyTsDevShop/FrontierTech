@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://frontiertech.news/ai-agent-glossary-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>FrontierTech.news</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T08:00:00-05:00</news:publication_date>
+      <news:title>AI &amp; Agent Glossary: Every Term Explained</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://frontiertech.news/ai-agent-payment-security-trust-gap-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>FrontierTech.news</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T08:00:00-05:00</news:publication_date>
+      <news:title>Why AI Payment Agents Are Hard to Secure</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://frontiertech.news/spacex-starship-flight-14-first-orbit</loc>
     <news:news>
       <news:publication>
@@ -230,138 +252,6 @@
       </news:publication>
       <news:publication_date>2026-09-28T08:00:00-05:00</news:publication_date>
       <news:title>Solar Geoengineering&apos;s Oversight Problem</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/mrna-melanoma-vaccine-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>First mRNA Cancer Vaccine Clears Phase 3</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/eu-ai-act-compliance-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>The EU&apos;s AI Act Deadline Just Slipped by Two Years</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/open-weight-models-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Open-Weight AI Models Near the Frontier</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/enhanced-geothermal-fervo-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Enhanced Geothermal Hits First Power in Utah</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/iron-air-battery-storage-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>The Iron-Air Battery That Runs on Rust</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/ai-designed-drugs-isomorphic-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>AlphaFold&apos;s Drug Spinoff Enters Human Trials</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/starlink-orbital-congestion-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Why SpaceX Is Moving Starlink&apos;s Orbit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/private-space-stations-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>The ISS Retires in 2030 — Who Replaces It?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/genius-act-stablecoins-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Stablecoins Get a Federal Rulebook</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/onchain-identity-proof-of-personhood-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Blockchain&apos;s Proof-of-Personhood Use Case</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/direct-air-capture-reality-check-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>The World&apos;s Largest DAC Plant Hits a Snag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://frontiertech.news/precision-fermentation-dairy-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>FrontierTech.news</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T08:00:00-05:00</news:publication_date>
-      <news:title>Precision-Fermented Dairy Protein&apos;s Lead</news:title>
     </news:news>
   </url>
 </urlset>

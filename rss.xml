@@ -5,8 +5,22 @@
   <link>https://frontiertech.news/</link>
   <description>Emerging technology journalism for builders and early adopters. AI, blockchain, energy, biotech, space, and climate tech, explained clearly.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 28 Sep 2026 14:36:30 -0500</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 12:50:19 -0500</lastBuildDate>
   <atom:link href="https://frontiertech.news/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The AI and Agentic Commerce Glossary: Every Term Explained</title>
+    <link>https://frontiertech.news/ai-agent-glossary-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ai-agent-glossary-2026</guid>
+    <pubDate>Tue, 29 Sep 2026 08:00:00 -0500</pubDate>
+    <description>A plain-English glossary of AI and agentic-commerce terms -- LLMs, AI agents, MCP, A2A, AP2, prompt injection, GEO, and more -- for 2026.</description>
+  </item>
+  <item>
+    <title>AI Agents Can Pay for Things Now. Securing Them Is the Harder Problem.</title>
+    <link>https://frontiertech.news/ai-agent-payment-security-trust-gap-2026</link>
+    <guid isPermaLink="true">https://frontiertech.news/ai-agent-payment-security-trust-gap-2026</guid>
+    <pubDate>Tue, 29 Sep 2026 08:00:00 -0500</pubDate>
+    <description>Why securing AI payment agents is harder than building the payment rails for them -- Amazon vs. Meta's Muse, AP2's signed mandates, and why prompt injection is still unsolved in 2026.</description>
+  </item>
   <item>
     <title>Starship Reaches Orbit for the First Time on a Dramatic Flight 14</title>
     <link>https://frontiertech.news/spacex-starship-flight-14-first-orbit</link>
@@ -202,20 +216,6 @@
     <guid isPermaLink="true">https://frontiertech.news/ai-designed-drugs-isomorphic-2026</guid>
     <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
     <description>Isomorphic Labs, the AlphaFold-based DeepMind spinoff, moved its first AI-designed drugs into human trials in 2026 — without naming the target or drug.</description>
-  </item>
-  <item>
-    <title>Space Is Getting Crowded Enough That SpaceX Is Moving Starlink</title>
-    <link>https://frontiertech.news/starlink-orbital-congestion-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/starlink-orbital-congestion-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>SpaceX is lowering nearly 10,000 Starlink satellites to a safer altitude in 2026, after ESA found collision-avoidance maneuvers topped 355,000 in a single year.</description>
-  </item>
-  <item>
-    <title>The ISS Retires in 2030. Its Replacements Are Still Being Built</title>
-    <link>https://frontiertech.news/private-space-stations-2026</link>
-    <guid isPermaLink="true">https://frontiertech.news/private-space-stations-2026</guid>
-    <pubDate>Sun, 27 Sep 2026 08:00:00 -0500</pubDate>
-    <description>NASA plans to deorbit the ISS in 2030. The four companies building replacements — Axiom, Orbital Reef, Starlab, Vast — are all still under construction.</description>
   </item>
 </channel>
 </rss>

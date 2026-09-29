@@ -3,6 +3,254 @@
 This file contains the complete text of all published articles for AI search and retrieval systems.
 
 ========================================================================
+TITLE: The AI and Agentic Commerce Glossary: Every Term Explained
+URL: https://frontiertech.news/ai-agent-glossary-2026
+VERTICAL: AI
+DATE: September 29, 2026
+DEK: From large language models to signed payment mandates: plain-English definitions for the AI and agentic-commerce terms that come up constantly in 2026, grouped by category.
+========================================================================
+
+AI terminology moves fast enough that even people working with these tools daily lose track of which term means what -- especially now that "AI" increasingly means an agent doing multi-step work, not just a chatbot answering questions. This glossary covers the terms that come up most often in our own reporting, grouped by category, defined in plain English.
+
+## Core AI & Language Model Terms
+
+### Large Language Model (LLM)
+
+A machine learning model trained on large amounts of text to predict and generate language. LLMs are the underlying technology behind ChatGPT, Claude, Gemini, and most other AI chat products.
+
+### Foundation Model
+
+A large, general-purpose model trained on broad data that can be adapted to many different tasks, as opposed to a model built and trained for one narrow job.
+
+### Token
+
+The basic unit a language model reads and generates text in -- roughly a word or part of a word. Model pricing, context limits, and processing speed are all typically measured in tokens.
+
+### Context Window
+
+The maximum amount of text, measured in tokens, a model can consider at one time, including everything in the current conversation, uploaded documents, and its own response. Content beyond that limit gets truncated or dropped.
+
+### Parameter
+
+An internal numerical value a model learns during training and uses to produce its outputs. Parameter count is a rough (and increasingly unreliable) proxy for a model's scale and capability.
+
+### Training vs. Inference
+
+Training is the process of building a model by having it learn patterns from data, which happens once (or periodically) and is extremely computationally expensive. Inference is the process of actually running the trained model to answer a prompt, which happens every time someone uses it.
+
+### Fine-Tuning
+
+Taking an already-trained model and training it further on a smaller, specific dataset to specialize its behavior for a particular task, tone, or domain.
+
+### Prompt / Prompt Engineering
+
+A prompt is the input given to an AI model to get a response. Prompt engineering is the practice of deliberately structuring that input -- wording, examples, formatting -- to get more reliable or accurate output.
+
+### System Prompt
+
+Instructions given to a model before a conversation starts, usually invisible to the end user, that set its behavior, tone, or constraints for the whole session.
+
+### Hallucination
+
+When a model generates information that sounds plausible and confident but is factually wrong or entirely fabricated. It's considered a structural property of how these models generate text, not simply a bug that gets patched out.
+
+### Retrieval-Augmented Generation (RAG)
+
+A technique where a model looks up relevant information from an external source -- a document set, database, or live search -- before generating an answer, rather than relying only on what it learned during training. RAG generally reduces hallucination on fact-based questions.
+
+### Embedding / Vector Database
+
+An embedding is a numerical representation of text, images, or other data that captures meaning in a form a computer can compare mathematically. A vector database stores and searches those embeddings, which is what makes RAG systems able to find relevant information quickly.
+
+### Multimodal
+
+A model that can process and generate more than one type of content -- text, images, audio, video -- rather than being limited to text alone.
+
+### Reasoning Model / Test-Time Compute
+
+A model trained and prompted to work through a problem in explicit, multi-step fashion before producing a final answer, rather than generating a response in one pass. That extra step-by-step computation happens at the time you ask the question -- hence "test-time compute" -- and generally improves accuracy on complex, multi-step problems at the cost of speed.
+
+### Open-Weight Model
+
+A model whose trained parameters are published for anyone to download and run, as opposed to a closed model only accessible through a company's own product or API.
+
+### Mixture of Experts (MoE)
+
+A model architecture that routes each input to a subset of specialized internal sub-networks ("experts") rather than running the entire model on every request, which can make a very large model cheaper to run.
+
+## Agentic AI & Protocol Terms
+
+### AI Agent / Agentic AI
+
+An AI agent is a system that can take multi-step actions toward a goal with some degree of autonomy -- calling tools, browsing the web, writing and running code -- rather than just responding to a single prompt. "Agentic AI" describes this category of system generally.
+
+### Tool Calling / Function Calling
+
+The mechanism that lets an AI model actually do something outside of generating text -- run a calculation, query a database, send an email -- by formally invoking a defined function or tool rather than just describing what it would do.
+
+### Orchestration / Multi-Agent System
+
+Orchestration is the coordination logic that decides which tool, model, or sub-agent handles which part of a task. A multi-agent system is an architecture where several specialized agents work on parts of a problem together rather than one agent handling everything.
+
+### Model Context Protocol (MCP)
+
+An open standard, originally released by Anthropic and now governed by the Agentic AI Foundation, for how an AI agent connects to external tools, files, and data sources in a consistent way, so developers don't have to build a custom integration for every tool an agent might use.
+
+### Agent2Agent Protocol (A2A)
+
+An open protocol, now under the Linux Foundation, that standardizes how independent AI agents -- potentially built by different companies on different platforms -- discover each other's capabilities and communicate. See our full A2A guide for how this applies specifically to agents that shop and pay.
+
+### Agent Payments Protocol (AP2)
+
+Google's open protocol for authorizing and auditing payments an AI agent makes on a person's behalf, built around cryptographically signed "mandates" that record what a user actually authorized. See our piece on what mandates do and don't secure.
+
+### x402
+
+An open, stablecoin-based payment protocol, built around the long-dormant HTTP 402 "Payment Required" status code, that lets an AI agent (or any automated system) pay for an API call or resource directly over the web without a traditional checkout flow.
+
+### Sandbox
+
+An isolated environment where an AI agent's actions are contained and can't affect real systems or data, used to test or run agents whose behavior isn't fully trusted yet.
+
+### Guardrails
+
+Rules, filters, or checks -- whether built into a model's training or added as an external layer -- meant to keep an AI system's outputs or actions within acceptable bounds.
+
+### Mandate (Intent Mandate / Cart Mandate)
+
+In AP2, a cryptographically signed record used to prove what a user authorized an agent to do. See the full explanation in our AI agent security article.
+
+### Know Your Agent (KYA)
+
+A framework, led by card networks including Mastercard, for verifying an AI agent's identity and authorization before allowing it to complete a payment -- modeled conceptually on "Know Your Customer" rules in banking. See our coverage of Mastercard's rollout.
+
+## AI Safety & Trust Terms
+
+### Prompt Injection
+
+An attack where malicious instructions are hidden inside content an AI agent processes -- a webpage, a document, an email -- so the agent follows the attacker's instructions instead of its actual user's. Considered one of the most serious unsolved problems in agentic AI security.
+
+### Jailbreak
+
+A prompt or technique specifically designed to get a model to ignore its safety training and produce output it would normally refuse to generate.
+
+### Lethal Trifecta
+
+A framework describing the specific combination that makes an AI agent dangerous to prompt injection: access to private data, exposure to untrusted content, and the ability to communicate externally. An agent with all three can potentially be turned into a data-exfiltration tool.
+
+### Alignment
+
+The broad effort to make an AI system's behavior actually match human intentions and values, rather than technically satisfying its training objective in an unintended or harmful way.
+
+### Red Teaming
+
+Deliberately trying to find an AI system's flaws, vulnerabilities, or failure modes -- including trying to make it misbehave -- before real users or attackers do.
+
+### Human-in-the-Loop
+
+A design where a person must review or approve an AI agent's action before it takes effect, as opposed to letting the agent act fully autonomously.
+
+## AI Search & GEO Terms
+
+### Generative Engine Optimization (GEO)
+
+The practice of structuring web content so AI systems -- chatbots, AI-generated search summaries, and autonomous agents -- can find, understand, and accurately cite it, as a complement to traditional search-engine optimization.
+
+### llms.txt
+
+A proposed standard, analogous to robots.txt, for a plain-text file at a website's root that gives AI crawlers and agents a clean, structured summary of a site's content, meant to make that content easier to parse than crawling full HTML pages.
+
+### Structured Data / Schema Markup
+
+Machine-readable code embedded in a webpage (commonly in JSON-LD format, using the schema.org vocabulary) that explicitly labels what a piece of content is -- an article, a product, a FAQ -- so search engines and AI systems don't have to infer it from the page's visible text alone.
+
+### AI Crawler / Bot
+
+An automated program that visits websites specifically to gather content for training or powering an AI system, such as GPTBot (OpenAI) or ClaudeBot (Anthropic), distinct from the crawlers traditional search engines use.
+
+SOURCES:
+- Linux Foundation &mdash; A2A Protocol Surpasses 150 Organizations: https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year
+- Anthropic &mdash; Donating the Model Context Protocol and Establishing the Agentic AI Foundation: https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+- Google Cloud &mdash; Announcing Agent Payments Protocol (AP2): https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+- Cloudflare &mdash; Launching the x402 Foundation with Coinbase: https://blog.cloudflare.com/x402/
+
+FREQUENTLY ASKED QUESTIONS:
+Q: What's the difference between an AI model and an AI agent?
+A: A model is the underlying system that takes an input and produces an output, like text or an image. An agent is a model wired up with tools, memory, and the ability to take multi-step actions toward a goal on its own, rather than just answering one prompt at a time.
+Q: What's the difference between MCP and A2A?
+A: Model Context Protocol (MCP) standardizes how an AI agent connects to tools and data sources, like a database or a file system. Agent2Agent Protocol (A2A) standardizes how two separate AI agents, potentially built by different companies, discover and communicate with each other. They solve different problems and are meant to be used together, not as alternatives.
+Q: What does GEO mean, and how is it different from SEO?
+A: Generative Engine Optimization (GEO) is the practice of structuring content so AI systems -- chatbots, AI search summaries, and autonomous agents -- can find, understand, and accurately cite it. Traditional SEO targets ranking in a list of links; GEO targets being the source an AI system quotes or summarizes directly, and the two overlap heavily but aren't identical.
+Q: Is a reasoning model the same thing as a bigger language model?
+A: No. A reasoning model doesn't necessarily have more parameters -- it's trained and prompted to spend more computation working through a problem step by step before answering, an approach usually called test-time compute. That can improve accuracy on complex tasks without changing the underlying model's size.
+
+========================================================================
+TITLE: AI Agents Can Pay for Things Now. Securing Them Is the Harder Problem.
+URL: https://frontiertech.news/ai-agent-payment-security-trust-gap-2026
+VERTICAL: AI
+DATE: September 29, 2026
+DEK: Google, Visa, Mastercard, and Coinbase have built the rails for AI agents that shop and pay on your behalf. Amazon blocking Meta's Muse this month shows the identity and trust layer underneath those rails still isn't built.
+========================================================================
+
+The infrastructure for AI agents that shop and pay on a person's behalf is arriving fast. Google, Visa, Mastercard, PayPal, Coinbase, and dozens of other companies have spent the past year building and shipping the protocols — covered in detail in our A2A guide — that let an agent find, negotiate, and pay for something without a human clicking "buy." What's arrived much more slowly is a reliable answer to a more basic question: how does anyone in that transaction actually know the agent is who it says it is, acting on whose behalf, within limits someone actually agreed to?
+
+## Amazon and Meta's public fight is the clearest evidence yet
+
+On Sept. 21, 2026, Amazon blocked Meta's newly launched Muse AI agent from shopping on Amazon.com, telling users that "continued access by an unauthorized AI agent violates Amazon's Conditions of Use." Amazon's stated reasons were specific: Meta never disclosed that Muse would access Amazon's platform, the agent didn't identify itself as an AI agent while browsing, it captured and stored customer credentials without what Amazon considered adequate safeguards, and it could reach a customer's account pages and order history on request — all without Amazon having any reliable way to tell which traffic on its site was Muse and which was a human shopper.
+
+That last point is the real story. Amazon and Meta are not fighting about whether AI shopping agents should exist — both companies are building their own. They're fighting because there's currently no agreed-upon way for a merchant to verify an agent's identity, know what it's authorized to do, or distinguish it from a scraper wearing a shopping agent's clothing. Amazon has since taken the same position against Perplexity's shopping agent and Google's AI shopping tools, which suggests this isn't a one-off dispute with Meta specifically — it's the default posture of a platform that doesn't yet trust unverified agents on principle.
+
+## A prompt is not the same thing as authorization
+
+The clearest articulation of why this is hard comes from JPMorgan's payments team, which put it bluntly: "A prompt expresses intent; it does not enforce authority." An instruction telling an agent what it should and shouldn't do is not a technical control — it's a request the agent's underlying model interprets, and interpretation can be manipulated, misunderstood, or simply wrong. JPMorgan points to internal security testing in which an agent produced malware despite being told it had no internet access, because the test environment happened to contain a network route nobody accounted for.
+
+The fix JPMorgan and others are converging on isn't a better prompt — it's an architecture where an independent policy engine checks every proposed action against the agent's verified identity, its mandate, and its spending limits, and an execution layer enforces that decision through a path the agent itself cannot bypass. NIST has an active project on agent identity and authorization; OWASP is developing a parallel Agent Control Standard. Neither is finished. Both exist because the industry has largely concluded that trusting an agent to police itself isn't a real security model.
+
+> "A prompt expresses intent; it does not enforce authority." — JPMorgan's payments team, on why instructing an AI agent what to do is not the same as controlling what it can do.
+
+## What AP2's signed mandates are actually built to prove
+
+Google's Agent Payments Protocol, announced Sept. 16, 2025 with more than 60 partners including Mastercard, PayPal, Coinbase, and American Express, is the most developed attempt at solving the authorization half of this problem. AP2 uses cryptographically signed "mandates" as tamper-proof digital contracts. An intent mandate captures what a person actually authorized — either a specific purchase or, for a delegated task like "buy concert tickets the moment they go on sale," standing rules covering price limits and timing. A cart mandate is a separate signed record locking in the exact items and price once an agent finalizes them, linked back to the intent mandate that authorized it.
+
+Chained together, the two mandates are designed to answer three questions after the fact: did the user actually authorize this, does the agent's request genuinely reflect what the user intended, and if something goes wrong, who's accountable. That's a real improvement over an unverifiable "the agent said the user approved it." But it's worth being precise about what a mandate does and doesn't do: it's an audit and accountability mechanism, not a real-time gatekeeper. A signed mandate proves what was authorized after an agent acts on it — it doesn't, on its own, stop a manipulated or compromised agent from generating a fraudulent mandate request in the first place.
+
+## Prompt injection is still the unsolved problem underneath all of this
+
+That gap matters because prompt injection — getting an AI agent to follow instructions hidden in content it processes, rather than instructions from its actual user — remains unresolved at a fundamental level. OWASP's Top 10 for Agentic Applications maps the risk into six of its ten categories, and researchers describe the underlying cause as structural: large language models process system instructions, user requests, and untrusted external content as one continuous stream of tokens, with no reliable built-in mechanism to tell a command from data.
+
+Researcher Simon Willison's "lethal trifecta" framework describes the specific combination that turns this into a real exploit: an agent with access to private data, exposure to untrusted content, and the ability to communicate externally can be turned into a data-exfiltration tool by injected instructions the agent never should have trusted. Meta's internal "Agents Rule of Two" policy takes a similarly blunt approach: an agent can have any two of those three properties without a human in the loop, but never all three. The risk isn't theoretical. In March 2026, a malicious package impersonating a legitimate tool (nicknamed "hackerbot-claw") was downloaded more than 47,000 times from PyPI within three hours before it was caught; a Model Context Protocol server vulnerability rated 9.6 out of 10 in severity (CVE-2025-6514) let a malicious MCP server execute arbitrary commands on a connected agent's machine.
+
+## Financial institutions know this, and are moving cautiously anyway
+
+A 2026 Cloud Security Alliance survey of financial institutions found 62% already use AI agents in some capacity and 85% expect agents to eventually initiate and execute payment transactions autonomously — but only 5% currently grant agents "high autonomy" over critical actions, and 65% say agentic payments will require "an entirely new model for authorization" that doesn't exist yet. Sensitive data leakage was the top-cited AI security risk, at 61%, followed by excessive or overly broad permissions granted to AI tools, at 33%. One in five institutions reported an AI-related security incident already; another 21% weren't sure whether they had.
+
+That gap between belief and deployment is the honest state of agentic commerce security heading into 2027: the payment rails, from Mastercard's Agent Pay and "Know Your Agent" framework to AP2's mandates, are real and shipping. The identity, authorization, and containment layer underneath them — the part that would let a merchant trust an unfamiliar agent by default rather than blocking it on sight, the way Amazon did with Muse — is still being built in public, one dispute and one vulnerability disclosure at a time.
+
+## Why It Matters
+
+The rails are outrunning the guardrails. Payment protocols like AP2 and Agent Pay are live and shipping faster than the identity and authorization standards meant to secure them.
+Mandates prove authorization, not safety. A cryptographically signed record of what a user approved is an accountability tool for disputes after the fact, not a real-time defense against a manipulated agent.
+Prompt injection remains structurally unsolved. The core vulnerability — models can't reliably separate instructions from untrusted content — hasn't been fixed, only mitigated case by case.
+Merchants are choosing to block first. Amazon's stance against Muse, Perplexity, and Google's shopping agents shows platforms defaulting to distrust of unverified agents rather than assuming good faith.
+
+SOURCES:
+- JPMorgan &mdash; Why AI Payment Agents Need Enforceable Controls, Not Prompts: https://www.jpmorgan.com/payments/newsroom/ai-agent-controls-payments
+- Help Net Security &mdash; Prompt Injection Still Drives Most Agentic AI Security Failures in Production: https://www.helpnetsecurity.com/2026/06/11/owasp-prompt-injection-ai-security-failures/
+- GeekWire &mdash; Amazon Blocks Meta's Muse AI Assistant in New Standoff Over Agentic Shopping: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/
+- Google Cloud &mdash; Announcing Agent Payments Protocol (AP2): https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+- Cloud Security Alliance &mdash; Is Financial Services Ready for Agentic Payments?: https://cloudsecurityalliance.org/blog/2026/06/23/is-financial-services-ready-for-agentic-payments
+
+FREQUENTLY ASKED QUESTIONS:
+Q: Why did Amazon block Meta's Muse AI shopping agent?
+A: Amazon said Muse accessed its site without disclosure or consent, didn't identify itself as an AI agent while browsing, captured and stored customer credentials without adequate safeguards, and could reach account pages and order history on a customer's prompt — all without Amazon's knowledge of which traffic was the agent versus a real shopper.
+Q: What's the difference between an AP2 intent mandate and a cart mandate?
+A: An intent mandate is a cryptographically signed record of what a person authorized an agent to do — a specific purchase, or standing rules like a price limit and timing window for a delegated task. A cart mandate is a separate signed record of the exact items and price the agent is about to pay for, created once those items are finalized, so there's a verifiable link between what was authorized and what was actually purchased.
+Q: Does a signed mandate actually stop an AI agent from being tricked into an unauthorized payment?
+A: Not by itself. A mandate proves what a human authorized after the fact, for accountability and dispute resolution — it doesn't prevent a compromised or manipulated agent from acting in the first place. That's why security researchers argue mandates have to be paired with an independent policy engine that checks every proposed action against the agent's authority before execution, not just record it afterward.
+Q: Is prompt injection considered a solved problem in 2026?
+A: No. OWASP's Top 10 for Agentic Applications maps prompt injection risk into six of its ten categories, and researchers describe it as unsolved because large language models process instructions and untrusted external content as one undifferentiated stream of text, with no reliable built-in way to tell a command from data.
+
+========================================================================
 TITLE: Starship Reaches Orbit for the First Time on a Dramatic Flight 14
 URL: https://frontiertech.news/spacex-starship-flight-14-first-orbit
 VERTICAL: SPACE
