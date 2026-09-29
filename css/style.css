@@ -297,6 +297,7 @@ nav.primary-nav a:hover { color: var(--indigo); }
 .badge.space { color: var(--v-space); background: var(--v-space-tint); }
 .badge.blockchain { color: var(--v-blockchain); background: var(--v-blockchain-tint); }
 .badge.climate { color: var(--v-climate); background: var(--v-climate-tint); }
+.badge.sponsored { color: #8A6D00; background: #FFF3D6; }
 
 /* ---------- Numbered article list ---------- */
 .article-list { padding: 12px 0 60px; }
@@ -640,6 +641,47 @@ article.post { padding-bottom: 60px; }
 .go-deeper li { margin-bottom: 10px; font-size: 15px; }
 .go-deeper a { text-decoration: underline; text-decoration-color: var(--line-strong); }
 .go-deeper a:hover { color: var(--indigo); }
+
+.post-table-wrap {
+  max-width: 940px;
+  margin: 32px auto;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+}
+.post-table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.post-table-wrap th, .post-table-wrap td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.post-table-wrap th {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  background: var(--paper-raised);
+  white-space: nowrap;
+}
+.post-table-wrap tr:last-child td { border-bottom: none; }
+
+.disclosure-footnote {
+  max-width: 700px;
+  margin: 32px auto 0;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  font-size: 13px;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+.disclosure-footnote a { color: var(--ink-soft); text-decoration: underline; text-decoration-color: var(--line-strong); }
+.disclosure-footnote a:hover { color: var(--indigo); }
 
 .faq { max-width: 700px; margin: 48px auto; }
 .faq h2 { font-family: var(--display); font-size: 24px; margin-bottom: 18px; }

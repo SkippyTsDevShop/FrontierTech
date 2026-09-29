@@ -1111,7 +1111,7 @@ The headline transaction numbers are misleading if read as real-economy spending
 
 > Stablecoin settlements reached $7.2 trillion in a single month in early 2026, surpassing the entire US ACH network's $6.8 trillion for the first time — a genuine infrastructure milestone, even if most of that volume is still crypto-native activity rather than retail payments.
 
-## The GENIUS Act changed the rules mid-2026
+## The GENIUS Act's rules are being written in 2026
 
 Stablecoins operated in a regulatory gray zone in the US until the GENIUS Act became law in 2025, establishing the first comprehensive federal framework and creating a formal category called "permitted payment stablecoin issuers." Throughout 2026, Treasury, the OCC, and the FDIC have been writing the actual operational rules issuers have to follow — and the emerging picture is less about reserve requirements, which the law itself already set, and more about anti-money-laundering compliance, treating stablecoin issuers similarly to how banks are regulated for that purpose.
 
@@ -1125,7 +1125,7 @@ The operational rules under the GENIUS Act remain open for public comment as of 
 
 SOURCES:
 - Reap &mdash; Stablecoin Statistics & Data 2026: https://reap.global/blog/stablecoin-statistics-2026
-- U.S. Department of the Treasury &mdash; Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance: https://home.treasury.gov/
+- U.S. Department of the Treasury &mdash; Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance: https://home.treasury.gov/news/press-releases/sb0435
 
 FREQUENTLY ASKED QUESTIONS:
 Q: What backs a stablecoin's value?
@@ -1343,9 +1343,9 @@ Video generation is enormously more computationally expensive than text or image
 
 > The core problem wasn't that Sora's video looked bad — it was that making it look good, consistently, at a price OpenAI could sustain, turned out to be a much harder problem than making it look good once, for a demo.
 
-## Why Hollywood never actually adopted it
+## What happened with Hollywood
 
-No major studio partnership materialized during Sora's run, for three specific reasons rather than general skepticism about AI. Sora couldn't reliably produce the same character consistently across multiple clips, which is a baseline requirement for any actual production. Post-2023 strike agreements between studios and unions placed real restrictions on how AI tools could be used in professional production. And professional filmmaking demands a level of precise, repeatable control that text-prompt-based generation, as of Sora's design, couldn't reliably provide — a director can't easily tell a text prompt to match a previous shot's exact lighting and camera angle.
+Hollywood did try. In December 2025, Disney announced a three-year licensing deal that would have brought more than 200 of its characters to Sora, alongside a planned $1 billion equity investment in OpenAI. That deal ended in March 2026, reportedly before any money changed hands, when OpenAI decided to exit video generation. Even before that, three practical obstacles limited Sora's use in real production. Sora couldn't reliably produce the same character consistently across multiple clips, which is a baseline requirement for any actual production. Post-2023 strike agreements between studios and unions placed real restrictions on how AI tools could be used in professional production. And professional filmmaking demands a level of precise, repeatable control that text-prompt-based generation, as of Sora's design, couldn't reliably provide — a director can't easily tell a text prompt to match a previous shot's exact lighting and camera angle.
 
 ## Google's Veo is playing a different game
 
@@ -1359,6 +1359,7 @@ SOURCES:
 - OpenAI Help Center &mdash; What to Know About the Sora Discontinuation: https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation
 - The Decoder &mdash; OpenAI Sets Two-Stage Sora Shutdown, App Closing April 2026 and API Following in September: https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/
 - MindStudio &mdash; Why OpenAI Killed Sora and What It Means for AI Video Generation: https://www.mindstudio.ai/blog/why-openai-killed-sora-ai-video-generation-future
+- Variety &mdash; OpenAI Shuts Down Sora AI Video, Disney Drops Planned $1B Investment: https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/
 
 FREQUENTLY ASKED QUESTIONS:
 Q: Is Sora still available?
@@ -1366,7 +1367,7 @@ A: No. OpenAI shut down the consumer Sora app and web experience on April 26, 20
 Q: Why did OpenAI shut Sora down if the video quality was impressive?
 A: The unit economics didn't work: video generation is far more computationally expensive than text or image generation, usage didn't hit revenue projections, and OpenAI redirected resources toward reasoning models and enterprise-focused tools instead.
 Q: Did any Hollywood studios actually use Sora?
-A: No major studio partnerships materialized, due to Sora's inability to keep characters consistent across clips, post-strike union restrictions on AI in production, and a lack of the precise creative control professional filmmaking requires.
+A: Disney signed a licensing deal in December 2025 to bring more than 200 of its characters to Sora, with a planned $1 billion investment in OpenAI, but the deal was cancelled in March 2026 when OpenAI shut Sora down. Character consistency, post-strike union limits on AI, and a lack of precise creative control also kept Sora out of professional production.
 Q: Is Google Veo facing the same problems as Sora?
 A: Veo has a structural advantage: Google can distribute and monetize AI video through YouTube's existing platform rather than needing a standalone app to be profitable on its own, which is a different economic bet than Sora's.
 
